@@ -1,0 +1,1001 @@
+Company Name,Headquarters,Website,Ratings,Average Salary,No. of Reviews,No. of Interviews
+Tata Consultancy Services,Mumbai,www.tcs.com,3.9, 106k, 65k, 12k
+Infosys,Bengaluru,www.infosys.com,3.9, 148k, 54k, 10k
+Accenture,"Dublin, Co. Dublin, Ireland",www.accenture.com,3.9, 109k, 78k, 16k
+Cognizant Technology Solutions,"Teaneck, NJ, United States",www.cognizant.com,3.7, 99k, 50k, 8.5k
+Amazon,"Seattle, WA, United States",www.amazon.jobs,4.3, 128k, 70k, 30k
+Deloitte,"New York, NY, United States",www.deloitte.com,3.9, 193k, 53k, 15k
+IBM,"Armonk, NY, United States",www.ibm.com,4.0, 113k, 67k, 10k
+Wipro,Bengaluru,www.wipro.com,3.7, 66k, 32k, 5.6k
+Capgemini,"Paris, France",www.capgemini.com,4.0, 45k, 33k, 8.4k
+Oracle,"Redwood City, CA, United States",www.oracle.com,3.7, 72k, 32k, 5.8k
+EY,"London, England, United Kingdom",www.ey.com,3.8, 78k, 39k, 11k
+HCL Technologies,Noida,www.hcltech.com,3.6, 40k, 22k, 3.5k
+Tech Mahindra,Pune,www.techmahindra.com,3.6, 24k, 19k, 3.0k
+Microsoft,"Redmond, WA, United States",www.microsoft.com,4.4, 82k, 30k, 11k
+PwC,"New York, NY, United States",www.pwc.com,3.9, 74k, 40k, 12k
+KPMG,"Courbevoie, France",www.home.kpmg,3.8, 53k, 31k, 8.4k
+Cisco Systems,"San Jose, CA, United States",www.cisco.com,4.3, 51k, 22k, 4.3k
+J.P. Morgan,"New York, NY, United States",www.jpmorgan.com,4.0, 49k, 25k, 8.9k
+Dell Technologies,"Round Rock, TX, United States",jobs.dell.com,4.1, 28k, 20k, 3.4k
+Google,"Mountain View, CA, United States",www.google.com,4.5, 53k, 20k, 13k
+Wells Fargo,"San Francisco, CA, United States",www.wellsfargojobs.com,3.7, 46k, 30k, 7.4k
+HSBC Holdings,"London, England, United Kingdom",www.hsbc.com,3.8, 21k, 16k, 3.7k
+SAP,"Walldorf, Baden-Württemberg, Germany",www.sap.com,4.6, 22k, 19k, 2.8k
+Intel Corporation,"Santa Clara, CA, United States",www.intel.com,4.1, 43k, 18k, 4.4k
+DXC Technology,"Tysons, VA, United States",www.dxc.technology,3.3, 18k, 12k, 1.5k
+LTI,Mumbai,www.lntinfotech.com,3.6, 20k, 6.2k, 1.8k
+Ericsson-Worldwide,"Stockholm, Stockholm, Sweden",www.ericsson.com,4.1, 15k, 13k, 1.9k
+Bank of America,"Charlotte, NC, United States",www.bankofamerica.com,4.0, 45k, 27k, 6.5k
+Genpact,"New York, NY, United States",www.genpact.com,3.8, 8.8k, 9.0k, 1.5k
+Citi,"New York, NY, United States",www.citigroup.com,3.9, 33k, 20k, 5.1k
+Qualcomm,"San Diego, CA, United States",www.qualcomm.com,4.1, 86k, 7.0k, 2.6k
+Target,"Minneapolis, MN, United States",www.target.com,4.3, 69k, 45k, 12k
+Honeywell,"Charlotte, NC, United States",www.honeywell.com,3.7, 17k, 12k, 2.2k
+Walmart,"Mississauga, ON, Canada",www.walmart.ca,3.3, 87k, 65k, 10k
+Verizon,"New York, NY, United States",www.verizon.com,4.0, 33k, 23k, 4.4k
+Hewlett Packard Enterprise | HPE,"Palo Alto, CA, United States",www.hpe.com,4.2, 23k, 12k, 1.3k
+Goldman Sachs,"New York, NY, United States",www.goldmansachs.com,4.0, 21k, 9.5k, 6.3k
+CGI,"Montreal, QC, Canada",www.cgi.com,3.7, 22k, 9.6k, 2.1k
+Mindtree,Bengaluru,www.mindtree.com,3.9, 9.1k, 6.2k, 1.7k
+Nokia,"Nokia, Finland",www.nokia.com,4.1, 13k, 12k, 1.5k
+Altran,"Neuilly-sur-Seine, France",www.altran.com,3.7, 9.5k, 7.9k, 1.7k
+ADP,"Roseland, NJ, United States",jobs.adp.com,4.0, 17k, 12k, 3.2k
+Siemens,"Munich, Bayern, Germany",www.siemens.com,4.1, 18k, 12k, 2.2k
+Barclays,"London, England, United Kingdom",search.jobs.barclays,4.1, 16k, 10k, 3.0k
+UnitedHealth Group,"Minnetonka, MN, United States",www.unitedhealthgroup.com,3.6, 17k, 12k, 3.7k
+Mphasis,Bengaluru,www.mphasis.com,3.5, 13k, 4.8k, 1.0k
+Thomson Reuters,"Toronto, ON, Canada",www.thomsonreuters.com,4.3, 14k, 11k, 2.2k
+BYJU'S,Bengaluru,www.byjus.com,3.3, 4.8k, 5.3k, 2.1k
+Concentrix,"Fremont, CA, United States",www.concentrix.com,3.9, 10k, 12k, 1.5k
+Amdocs,"Chesterfield, MO, United States",www.amdocs.com,3.8, 7.5k, 6.7k, 1.2k
+GE,"Boston, MA, United States",www.ge.com,3.9, 20k, 13k, 2.9k
+Teleperformance,"Paris, France",www.teleperformance.com,3.4, 15k, 14k, 2.3k
+ICICI Bank,Mumbai,www.icicibank.com,3.6, 4.9k, 6.0k, 984
+American Express,"New York, NY, United States",www.americanexpress.com,4.2, 14k, 9.9k, 2.3k
+Publicis Sapient,"Boston, MA, United States",www.publicissapient.com,3.7, 7.6k, 5.4k, 1.4k
+Morgan Stanley,"New York, NY, United States",www.morganstanley.com,4.0, 20k, 10k, 4.7k
+Robert Bosch,"Gerlingen, Baden-Württemberg, Germany",www.bosch.de,4.1, 10k, 8.3k, 1.5k
+Larsen & Toubro,Mumbai,www.larsentoubro.com,3.8, 7.5k, 4.4k, 923
+Fidelity Investments,"Boston, MA, United States",www.fidelitycareers.com,4.1, 16k, 8.9k, 2.5k
+Atos-Syntel,"Troy, MI, United States",www.atos-syntel.net,3.5, 9.4k, 4.7k, 978
+Vodafone,"Newbury, England, United Kingdom",www.vodafone.com,4.0, 9.4k, 8.9k, 1.9k
+Cerner,"Kansas City, MO, United States",www.cerner.com,3.9, 11k, 6.0k, 2.4k
+ZS Associates,"Evanston, IL, United States",www.zs.com,3.9, 6.1k, 3.6k, 1.8k
+NTT DATA,"Tokyo, Japan",www.nttdata.com,3.7, 9.9k, 5.8k, 1.1k
+UST,"Aliso Viejo, CA, United States",www.ust.com,4.1, 11k, 3.9k, 1.1k
+Uber,"San Francisco, CA, United States",www.uber.com,4.3, 22k, 13k, 3.7k
+CSC,"Tysons, VA, United States",www.csc.com,3.6, 21k, 6.6k, 1.1k
+Adobe,"San Jose, CA, United States",www.adobe.com,4.4, 10k, 5.5k, 1.3k
+Atos,"Bezons, France",www.atos.net,3.5, 8.2k, 7.2k, 1.0k
+Salesforce,"San Francisco, CA, United States",www.salesforce.com,4.5, 17k, 8.5k, 7.3k
+NatWest Group,"Edinburgh, Scotland, United Kingdom",www.natwestgroup.com,3.9, 6.6k, 5.9k, 1.4k
+Deutsche Bank,"Frankfurt am Main, Germany",www.db.com,3.8, 13k, 7.5k, 2.1k
+Samsung Electronics,"Suwŏn, Kyonggi, South Korea",www.samsung.com,3.7, 8.8k, 8.0k, 1.3k
+VMware,"Palo Alto, CA, United States",www.vmware.com,4.3, 12k, 6.5k, 1.7k
+IQVIA,"Durham, NC, United States",jobs.iqvia.com,3.8, 8.6k, 6.5k, 1.6k
+Mu Sigma,"Northbrook, IL, United States",www.mu-sigma.com,3.2, 4.2k, 3.2k, 1.6k
+Schneider Electric,"Paris, France",www.se.com,4.2, 8.9k, 7.7k, 1.3k
+HDFC Bank,Mumbai,www.hdfcbank.com,3.7, 3.6k, 4.1k, 586
+Philips,"Amsterdam, Netherlands",www.philips.com,4.0, 11k, 6.7k, 1.4k
+BNY Mellon,"New York, NY, United States",www.bnymellon.com,3.4, 10k, 6.8k, 1.4k
+FIS,"Jacksonville, FL, United States",www.fisglobal.com,3.8, 8.0k, 5.2k, 907
+Virtusa,"Westborough, MA, United States",www.virtusa.com,3.4, 5.0k, 4.0k, 964
+Credit Suisse,"Zürich, Switzerland",www.credit-suisse.com,3.9, 13k, 6.7k, 1.9k
+McDonald's,"Chicago, IL, United States",www.mcdonalds.com,3.5, 51k, 52k, 8.2k
+AT&T,"Dallas, TX, United States",www.att.jobs,3.6, 43k, 27k, 4.2k
+Reliance Industries,Mumbai,www.ril.com,3.9, 3.1k, 3.8k, 567
+Apple,"Cupertino, CA, United States",www.apple.com,4.3, 70k, 22k, 8.5k
+Huawei Technologies,"Shenzhen, Guangdong, China",www.huawei.com,3.8, 6.3k, 7.4k, 1.6k
+Unilever,"London, England, United Kingdom",www.unilever.com,4.1, 10k, 8.5k, 2.5k
+Sutherland,"Pittsford, NY, United States",www.sutherlandglobal.com,3.7, 3.5k, 4.5k, 943
+ABC,"New York, NY, United States",www.abc.com,4.0, 5.4k, 4.6k, 608
+NortonLifeLock,"Tempe, AZ, United States",www.nortonlifelock.com,3.8, 7.5k, 4.7k, 862
+Lowe's Home Improvement,"Mooresville, NC, United States",jobs.lowes.com,3.5, 44k, 24k, 4.3k
+NVIDIA,"Santa Clara, CA, United States",www.nvidia.com,4.6, 22k, 3.1k, 1.4k
+Société Générale,"Paris, France",www.societegenerale.com,3.7, 7.3k, 5.7k, 1.2k
+BT,"London, England, United Kingdom",www.bt.com,3.9, 6.3k, 5.3k, 964
+Robert Bosch India,Bengaluru,www.boschindia.com,3.9, 2.5k, 2.9k, 771
+Persistent Systems (India),Pune,www.persistent.com,3.9, 3.2k, 3.0k, 768
+IGATE,"Bridgewater, NJ, United States",www.igate.com,4.0, 6.0k, 2.7k, 634
+Nielsen,"New York, NY, United States",www.nielsen.com,3.7, 10k, 6.9k, 1.7k
+TCS,"Jefferson City, MO, United States",www.calltcs.com,4.0, 2.3k, 3.3k, 780
+Shell,"The Hague, Netherlands",www.shell.com,4.1, 8.3k, 7.4k, 1.9k
+GlobalLogic,"San Jose, CA, United States",www.globallogic.com,3.8, 3.2k, 3.2k, 666
+Hexaware Technologies,Mumbai,www.hexaware.com,3.5, 6.4k, 2.4k, 704
+BNP Paribas,"Paris, France",www.group.bnpparibas,3.7, 8.4k, 6.9k, 1.4k
+OYO,"Madrid, Spain",www.oyorooms.com,3.2, 2.8k, 3.2k, 571
+TEKsystems,"Hanover, MD, United States",www.teksystems.com,4.1, 7.1k, 5.9k, 1.5k
+Anonymous Content,"Culver City, CA, United States",www.anonymouscontent.com,3.8, 3.0k, 3.5k, 1.4k
+Fiserv,"Brookfield, WI, United States",www.fiserv.com,3.4, 6.9k, 4.5k, 793
+EXL Service,"New York, NY, United States",www.exlservice.com,3.5, 3.9k, 2.8k, 666
+Axis Bank,Mumbai,www.axisbank.com,3.5, 2.5k, 3.0k, 506
+KPIT Technologies,Pune,www.kpit.com,3.2, 4.6k, 2.4k, 572
+McKinsey & Company,"New York, NY, United States",www.mckinsey.com,4.4, 14k, 5.4k, 3.1k
+Intuit,"Mountain View, CA, United States",www.intuit.com,4.4, 9.4k, 6.1k, 1.5k
+Fujitsu,"Tokyo, Japan",www.fujitsu.com,3.5, 17k, 3.9k, 613
+ABB,"Cary, NC, United States",new.abb.com,3.9, 6.6k, 5.2k, 814
+HP Inc.,"Palo Alto, CA, United States",jobs.hp.com,4.1, 10k, 5.0k, 532
+UBS,"Zürich, Switzerland",www.ubs.com,3.8, 15k, 7.7k, 2.6k
+S&P Global,"New York, NY, United States",www.spglobal.com,4.0, 4.7k, 3.7k, 1.2k
+Ford Motor Company,"Dearborn, MI, United States",corporate.ford.com,4.1, 10k, 6.9k, 1.3k
+Cyient,Hyderabad,www.cyient.com,3.3, 7.6k, 2.0k, 334
+L&T Technology Services,Vadodara,www.ltts.com,4.0, 3.3k, 3.1k, 452
+Coforge,Noida,www.coforgetech.com,3.8, 5.4k, 2.6k, 409
+HCL,Noida,www.hcl.com,3.5, 2.4k, 3.2k, 704
+WNS,Mumbai,www.wns.com,3.4, 2.2k, 2.9k, 598
+Flipkart,Bengaluru,www.flipkart.com,4.2, 2.4k, 2.3k, 559
+Sopra Steria,"Annecy-le-Vieux, France",www.soprasteria.fr,3.6, 4.5k, 3.7k, 748
+Collabera,"Basking Ridge, NJ, United States",www.collabera.com,4.0, 3.7k, 2.8k, 622
+PepsiCo,"Purchase, NY, United States",www.pepsico.com,4.0, 17k, 11k, 2.9k
+Jio,Mumbai,www.jio.com,3.7, 2.1k, 2.5k, 562
+Samsung R&D Institute India - Bangalore,Bengaluru,research.samsung.com,3.6, 2.5k, 2.4k, 429
+Sears,"Hoffman Estates, IL, United States",jobs.sears.com,3.1, 19k, 13k, 2.9k
+PayPal,"San Jose, CA, United States",www.paypal.com,4.2, 10.0k, 4.5k, 1.2k
+Zoho,"Pleasanton, CA, United States",www.zohocorp.com,4.5, 1.7k, 1.8k, 1.1k
+Schlumberger,"Houston, TX, United States",www.slb.com,3.7, 9.9k, 7.7k, 2.4k
+Hinduja Global Solutions,Bengaluru,www.joinhgs.com,3.5, 2.0k, 2.7k, 425
+Novartis,"Basel, Switzerland",www.novartis.com,4.2, 6.9k, 5.1k, 925
+HARMAN,"Stamford, CT, United States",www.harman.com,3.7, 3.3k, 2.7k, 662
+Kantar,"London, England, United Kingdom",www.kantar.com,3.5, 5.5k, 4.5k, 946
+NetApp,"Sunnyvale, CA, United States",www.netapp.com,4.2, 7.0k, 3.7k, 711
+Zensar Technologies,Pune,www.zensar.com,3.4, 12k, 2.3k, 585
+Cummins,"Columbus, IN, United States",www.cummins.com,4.0, 10k, 4.9k, 1.4k
+Aon,"London, England, United Kingdom",www.aon.com,3.8, 5.9k, 4.5k, 1.0k
+Marriott International,"Bethesda, MD, United States",jobs.marriott.com,4.1, 17k, 11k, 1.8k
+Tata Consultancy Services (North America),"New York, NY, United States",www.tcs.com,3.7, 2.8k, 3.0k, 683
+Procter & Gamble,"Cincinnati, OH, United States",www.pg.com,4.2, 13k, 9.8k, 3.9k
+Unisys,"Blue Bell, PA, United States",www.unisys.com,3.5, 4.1k, 3.5k, 528
+Nestlé,"Vevey, Switzerland",www.nestle.com,4.1, 9.5k, 7.2k, 1.3k
+Tesco,"Welwyn Garden City, England, United Kingdom",www.tesco-careers.com,3.8, 13k, 11k, 2.0k
+WhiteHat Jr,Mumbai,www.whitehatjr.com,4.2, 2.0k, 2.9k, 363
+Birlasoft,Pune,www.birlasoft.com,3.5, 7.7k, 1.5k, 337
+GE Healthcare,"Chicago, IL, United States",www.gehealthcare.com,4.1, 6.3k, 4.1k, 820
+Synechron,"New York, NY, United States",www.synechron.com,3.8, 5.2k, 1.9k, 430
+CA Technologies,"San Jose, CA, United States",www.broadcom.com,3.8, 5.0k, 3.4k, 515
+Johnson & Johnson,"New Brunswick, NJ, United States",www.jnj.com,4.2, 11k, 8.8k, 2.1k
+Nagarro,"Munich, Bayern, Germany",www.nagarro.com,3.9, 2.2k, 1.8k, 700
+State Street,"Boston, MA, United States",www.statestreet.com,3.4, 9.9k, 6.0k, 1.4k
+Bharti Airtel,New Delhi,www.airtel.in,3.8, 1.9k, 2.6k, 437
+Xerox,"Norwalk, CT, United States",www.xerox.com,3.2, 10k, 7.6k, 1.2k
+Texas Instruments,"Dallas, TX, United States",www.ti.com,4.2, 6.7k, 3.4k, 1.5k
+Standard Chartered Bank,"London, England, United Kingdom",www.sc.com,3.9, 4.2k, 4.3k, 939
+Caterpillar,"Deerfield, IL, United States",www.caterpillar.com,3.9, 8.7k, 5.0k, 1.0k
+Boeing,"Chicago, IL, United States",www.boeing.com,3.7, 18k, 10k, 2.2k
+Facebook,"Menlo Park, CA, United States",www.facebook.com,4.2, 27k, 6.7k, 7.2k
+JLL,"Chicago, IL, United States",www.jll.com,4.0, 7.2k, 5.0k, 956
+Flex,"Singapore, Singapore",www.flex.com,3.8, 4.7k, 3.5k, 506
+Convergys,"Cincinnati, OH, United States",www.convergys.com,3.0, 5.2k, 5.5k, 1.2k
+Informatica,"Redwood City, CA, United States",www.informatica.com,4.3, 7.4k, 1.8k, 577
+Conduent,"Florham Park, NJ, United States",www.conduent.com,3.0, 4.8k, 4.5k, 674
+CBRE,"Los Angeles, CA, United States",www.cbre.com,3.9, 11k, 5.7k, 1.1k
+Expedia Group,"Seattle, WA, United States",www.lifeatexpediagroup.com,4.0, 9.1k, 4.5k, 1.5k
+Tata Motors,Mumbai,www.tatamotors.com,4.0, 1.8k, 2.2k, 387
+Cybage Software,Pune,www.cybage.com,3.7, 1.9k, 2.2k, 482
+Lumen,"Monroe, LA, United States",www.lumen.com,3.7, 7.2k, 4.9k, 745
+ITC Infotech,Bengaluru,www.itcinfotech.com,3.6, 2.7k, 2.1k, 386
+General Motors (GM),"Detroit, MI, United States",www.gm.com,4.0, 13k, 7.3k, 1.9k
+GlaxoSmithKline,"Brentford, England, United Kingdom",www.gsk.com,3.9, 9.4k, 7.4k, 1.6k
+Boston Consulting Group,"Boston, MA, United States",www.bcg.com,4.0, 7.5k, 4.0k, 2.2k
+Citrix,"Fort Lauderdale, FL, United States",jobs.citrix.com,4.0, 5.5k, 3.2k, 914
+Juniper Networks,"Sunnyvale, CA, United States",www.juniper.net,3.9, 4.9k, 2.9k, 594
+Visa Inc.,"Foster City, CA, United States",www.visa.com,3.8, 7.7k, 3.8k, 1.4k
+Eaton,"Dublin, Co. Dublin, Ireland",www.eaton.com,3.9, 6.3k, 4.1k, 988
+Mahindra,Mumbai,www.experiencemahindra.com,3.9, 1.8k, 2.3k, 345
+Johnson Controls,"Cork, Ireland",www.johnsoncontrols.com,3.5, 8.7k, 5.0k, 841
+IHS Markit,"London, England, United Kingdom",www.ihsmarkit.com,4.1, 3.9k, 3.2k, 715
+Broadcom,"Irvine, CA, United States",www.broadcom.com,3.2, 7.9k, 3.1k, 667
+Infosys BPM,Bengaluru,www.infosysbpo.com,3.5, 1.9k, 2.3k, 329
+Gartner,"Stamford, CT, United States",jobs.gartner.com,3.8, 6.3k, 4.3k, 1.7k
+eClerx,Mumbai,www.eclerx.com,3.5, 1.4k, 1.9k, 581
+State Bank of India,Mumbai,www.statebankofindia.com,3.9, 1.8k, 2.1k, 300
+Randstad,"Amsterdam, Netherlands",www.randstad.com,3.9, 12k, 4.1k, 690
+Capita,"London, England, United Kingdom",www.capita.com,3.2, 4.7k, 4.0k, 641
+FactSet,"Norwalk, CT, United States",www.factset.com,3.9, 3.6k, 2.2k, 1.3k
+NCR,"Atlanta, GA, United States",www.ncr.com,3.6, 5.4k, 4.3k, 819
+Mercer,"New York, NY, United States",www.mercer.com,3.7, 5.7k, 3.6k, 1.1k
+Evalueserve,"Schaffhausen, Switzerland",www.evalueserve.com,4.1, 1.4k, 2.1k, 357
+Amadeus,"Madrid, Spain",www.amadeus.com,3.7, 3.7k, 2.7k, 677
+Northern Trust,"Chicago, IL, United States",www.northerntrust.com,3.9, 3.9k, 2.8k, 657
+Starbucks,"Seattle, WA, United States",www.starbucks.com,3.9, 44k, 35k, 6.2k
+Capital One,"Mc Lean, VA, United States",www.capitalonecareers.com,4.1, 22k, 9.6k, 5.0k
+Continental,"Hannover, Germany",www.continental-careers.com,4.0, 7.4k, 4.4k, 843
+AIG,"New York, NY, United States",www.aig.com,3.6, 7.9k, 5.5k, 1.2k
+Freelancer,"Sydney, Australia",www.freelancer.com,4.3, 5.0k, 4.1k, 145
+ThoughtWorks,"Chicago, IL, United States",www.thoughtworks.com,4.4, 3.3k, 1.7k, 900
+John Deere,"Moline, IL, United States",www.deere.com,4.0, 4.9k, 3.5k, 724
+Maersk Group,"Copenhagen, Denmark",www.maersk.com,4.0, 3.2k, 2.8k, 564
+Abbott,"Abbott Park, IL, United States",www.abbott.com,3.9, 8.6k, 5.1k, 976
+BlackRock,"New York, NY, United States",www.blackrock.com,4.1, 6.7k, 3.2k, 2.0k
+Emerson,"Saint Louis, MO, United States",www.emerson.com,3.7, 5.7k, 4.0k, 766
+Optum,"Eden Prairie, MN, United States",www.optum.com,3.6, 4.6k, 2.5k, 383
+Grant Thornton,"Chicago, IL, United States",www.grantthornton.com,3.8, 7.6k, 3.9k, 1.1k
+Orange,"Paris, France",www.orange.jobs,4.0, 4.9k, 4.7k, 711
+MetLife,"New York, NY, United States",www.metlife.com,3.8, 6.7k, 4.6k, 891
+EPAM,"Newtown, PA, United States",www.epam.com,4.1, 6.5k, 3.2k, 628
+Parexel,"Newton, MA, United States",www.parexel.com,3.8, 8.6k, 2.1k, 458
+Willis Towers Watson,"Arlington, VA, United States",www.willistowerswatson.com,3.8, 6.0k, 4.2k, 1.3k
+LinkedIn,"Sunnyvale, CA, United States",www.linkedin.com,4.3, 8.0k, 3.9k, 2.0k
+Akamai,"Cambridge, MA, United States",www.akamai.com,4.6, 3.4k, 1.8k, 666
+Adecco,"Zürich, Switzerland",www.adecco.com,3.6, 12k, 5.2k, 937
+Mastercard,"Purchase, NY, United States",www.mastercard.com,4.3, 4.6k, 2.9k, 871
+Bain & Company,"Boston, MA, United States",www.bain.com,4.6, 5.1k, 3.9k, 1.7k
+Yahoo,"Sunnyvale, CA, United States",www.yahoo.com,4.1, 8.6k, 4.0k, 1.1k
+Tata Communications,Mumbai,www.tatacommunications.com,4.0, 1.5k, 1.8k, 262
+Sitel,"Luxembourg, Luxembourg",www.sitel.com,3.4, 5.0k, 5.3k, 829
+ANZ Bank,"Melbourne, Australia",www.anz.com.au,4.1, 2.7k, 2.6k, 446
+UKG (Ultimate Kronos Group),"Weston, FL, United States",www.ukg.com,4.2, 3.4k, 3.4k, 919
+QuEST Global,"Singapore, Singapore",www.quest-global.com,3.2, 3.2k, 1.7k, 369
+Kotak Mahindra,Mumbai,www.kotak.com,3.5, 1.5k, 1.8k, 238
+UPS,"Atlanta, GA, United States",www.upsjobs.com,3.6, 33k, 19k, 3.1k
+OpenText,"Waterloo, ON, Canada",www.opentext.com,3.4, 2.7k, 2.3k, 493
+Synopsys,"Mountain View, CA, United States",www.synopsys.com,4.1, 7.9k, 2.2k, 447
+Allstate,"Northbrook, IL, United States",www.allstate.com,3.5, 9.6k, 6.5k, 1.7k
+AstraZeneca,"Cambridge, England, United Kingdom",www.astrazeneca.com,4.2, 5.5k, 3.9k, 944
+Blue Yonder,"Scottsdale, AZ, United States",www.blueyonder.com,4.2, 2.1k, 1.9k, 313
+[24]7.ai,"San Jose, CA, United States",www.247.ai,4.3, 1.3k, 1.8k, 346
+Whirlpool Corporation,"Benton Harbor, MI, United States",www.whirlpoolcorp.com,4.0, 5.9k, 3.8k, 578
+Infogain,"Los Gatos, CA, United States",www.infogain.com,3.8, 1.6k, 1.6k, 323
+Decathlon,"Villeneuve-d'Ascq, France",www.decathlon.com,3.9, 3.0k, 3.1k, 508
+Alcatel-Lucent,"Espoo, Finland",www.nokia.com,3.5, 4.2k, 2.7k, 446
+Capgemini Invent,"Issy-les-Moulineaux, France",www.capgemini.com,3.9, 2.6k, 2.0k, 565
+HERE Technologies,"Amsterdam, Netherlands",company.here.com,3.7, 2.4k, 1.9k, 391
+Allscripts,"Chicago, IL, United States",www.allscripts.com,3.5, 2.3k, 1.9k, 413
+ValueLabs,Hyderabad,www.valuelabs.com,3.5, 1.2k, 1.3k, 419
+Thermo Fisher Scientific,"Waltham, MA, United States",www.thermofisher.com,3.7, 9.8k, 4.8k, 991
+ITC,Kolkata,www.itcportal.com,3.9, 1.2k, 1.4k, 325
+Paytm,Noida,www.paytm.com,3.5, 1.3k, 1.3k, 385
+Domino's,"Ann Arbor, MI, United States",jobs.dominos.com,3.6, 13k, 8.2k, 1.2k
+First Student,"Cincinnati, OH, United States",www.firststudentinc.com,4.1, 3.5k, 1.6k, 115
+Medtronic,"Dublin, Co. Dublin, Ireland",www.medtronic.com,4.0, 8.2k, 5.2k, 1.2k
+Pearson,"London, England, United Kingdom",www.pearson.com,3.5, 8.5k, 5.5k, 895
+ExxonMobil,"Irving, TX, United States",corporate.exxonmobil.com,3.4, 7.4k, 5.3k, 1.9k
+Avaya,"Santa Clara, CA, United States",www.avaya.com,3.7, 3.1k, 2.6k, 344
+CRISIL,Mumbai,www.crisil.com,3.7, 1.3k, 1.4k, 310
+Fractal,"New York, NY, United States",www.fractal.ai,4.0, 1.7k, 828, 448
+AECOM,"Los Angeles, CA, United States",www.aecom.com,3.5, 11k, 6.4k, 1.1k
+DBS Bank,"Singapore, Singapore",www.dbs.com,3.8, 3.2k, 3.0k, 620
+ServiceNow,"Santa Clara, CA, United States",www.servicenow.com,4.2, 13k, 1.4k, 714
+McAfee,"Santa Clara, CA, United States",www.mcafee.com,3.9, 2.8k, 1.8k, 377
+Zomato,"Gurgaon, Haryana",www.zomato.com,4.0, 1.4k, 1.4k, 323
+Applied Materials,"Santa Clara, CA, United States",www.appliedmaterials.com,4.0, 8.5k, 2.0k, 495
+Teradata,"San Diego, CA, United States",www.teradata.com,4.0, 2.8k, 2.2k, 443
+Snapdeal,New Delhi,www.snapdeal.com,4.0, 981, 1.2k, 335
+Groupon,"Chicago, IL, United States",www.grouponcareers.com,3.6, 5.0k, 3.4k, 1.1k
+Stryker,"Portage, MI, United States",www.stryker.com,4.3, 5.7k, 3.4k, 1.7k
+Ness Technologies,"Teaneck, NJ, United States",www.ness.com,4.0, 2.0k, 1.3k, 320
+AMD,"Santa Clara, CA, United States",www.amd.com,4.1, 6.4k, 2.7k, 681
+Tata Technologies,Pune,www.tatatechnologies.com,3.4, 1.6k, 1.3k, 257
+Tata Steel,Mumbai,www.tatasteel.com,4.1, 1.3k, 1.4k, 309
+Altisource,"Luxembourg, Luxembourg",www.altisource.com,3.5, 1.4k, 1.4k, 398
+Polaris FT,Chennai,www.polarisft.com,3.4, 3.0k, 1.0k, 258
+Maruti Suzuki,New Delhi,www.marutisuzuki.com,3.9, 1.2k, 1.3k, 269
+Ubisoft,"Montreuil, Ile-de-France, France",www.ubisoftgroup.com,3.9, 3.4k, 2.4k, 602
+Tata Elxsi,Bengaluru,www.tataelxsi.com,3.9, 1.3k, 1.3k, 324
+AXA,"Paris, France",www.axa.com,3.9, 4.0k, 3.5k, 739
+L'Oréal,"Clichy, France",www.loreal.com,3.9, 7.8k, 6.6k, 1.9k
+Nomura Holdings,"Tokyo, Japan",www.nomura.com,3.9, 2.4k, 1.7k, 707
+Pfizer,"New York, NY, United States",www.pfizer.com,4.2, 8.3k, 5.1k, 1.0k
+Patni Computer Systems,Mumbai,www.patni.com,4.4, 10k, 409, 64
+Infor,"New York, NY, United States",www.infor.com,3.9, 3.3k, 2.6k, 442
+Allianz,"Munich, Bayern, Germany",www.allianz.com,3.9, 4.1k, 3.0k, 602
+Jacobs,"Dallas, TX, United States",www.jacobs.com,3.8, 6.2k, 4.0k, 731
+General Mills,"Minneapolis, MN, United States",www.generalmills.com,4.1, 4.0k, 2.7k, 898
+Yash Technologies,"East Moline, IL, United States",www.yash.com,3.6, 3.0k, 951, 212
+R.R. Donnelley,"Chicago, IL, United States",www.rrdonnelley.com,3.3, 4.2k, 2.5k, 348
+MathWorks,"Natick, MA, United States",www.mathworks.com,4.4, 3.8k, 1.5k, 2.5k
+CDK Global,"Hoffman Estates, IL, United States",www.cdkglobal.com,3.5, 3.1k, 2.2k, 414
+Manhattan Associates,"Atlanta, GA, United States",www.manh.com,4.0, 3.4k, 1.1k, 410
+Epsilon,"Irving, TX, United States",www.epsilon.com,3.8, 2.9k, 1.6k, 533
+TietoEVRY,"Espoo, Finland",www.tietoevry.com,4.0, 1.3k, 1.6k, 280
+Cadence Design Systems,"San Jose, CA, United States",www.cadence.com,4.3, 3.4k, 1.5k, 511
+Nutanix,"San Jose, CA, United States",www.nutanix.com,4.0, 2.2k, 1.1k, 1.2k
+Pegasystems,"Cambridge, MA, United States",www.pega.com,4.1, 1.6k, 1.3k, 455
+Panasonic,"Ōsaka, Osaka, Japan",www.panasonic.com,3.7, 3.8k, 2.0k, 245
+Red Hat,"Raleigh, NC, United States",www.redhat.com,4.4, 3.6k, 2.1k, 584
+Swiggy,Bengaluru,www.swiggy.in,4.0, 1.0k, 1.2k, 199
+eClinicalWorks,"Westborough, MA, United States",www.eclinicalworks.com,3.7, 2.4k, 973, 358
+Newgen Software,New Delhi,www.newgensoft.com,3.2, 999, 1.1k, 319
+Tesco Bengaluru,Bengaluru,www.tescobengaluru.com,4.1, 915, 1.2k, 229
+Ola,Bengaluru,www.olacabs.com,3.3, 1.1k, 1.1k, 265
+Dassault Systemes,"Vélizy-Villacoublay, France",www.3ds.com,3.9, 2.6k, 1.9k, 493
+Hyatt,"Chicago, IL, United States",www.hyatt.com,4.2, 7.1k, 4.2k, 646
+Anheuser-Busch InBev,"Leuven, Belgium",www.ab-inbev.com,3.6, 2.6k, 2.4k, 1.1k
+eBay,"San Jose, CA, United States",www.ebayinc.com,3.9, 9.6k, 3.9k, 1.0k
+Cargill,"Wayzata, MN, United States",www.cargill.com,4.0, 6.9k, 4.1k, 863
+CSS Corporation,"Milpitas, CA, United States",www.csscorp.com,3.4, 1.0k, 1.2k, 332
+Western Digital,"San Jose, CA, United States",jobs.wdc.com,3.6, 8.5k, 2.3k, 597
+BMC Software,"Houston, TX, United States",www.bmc.com,4.0, 2.0k, 1.7k, 252
+Marlabs,"Piscataway, NJ, United States",www.marlabs.com,4.0, 5.9k, 833, 198
+Arm,"Cambridge, Gloucestershire, South West England, England, United Kingdom",www.arm.com,4.3, 6.1k, 1.4k, 723
+Cvent,"Tysons, VA, United States",www.cvent.com,3.6, 1.8k, 1.3k, 633
+PTC,"Boston, MA, United States",www.ptc.com,3.9, 2.4k, 1.6k, 323
+STMicroelectronics,"Geneva, Switzerland",www.st.com,3.8, 2.2k, 1.8k, 229
+Wipro Technologies,Chennai,,3.8, 1.5k, 1.3k, 47
+Broadridge,"Lake Success, NY, United States",www.broadridge.com,3.6, 2.0k, 1.5k, 373
+TIAA,"New York, NY, United States",www.tiaa.org,3.8, 2.8k, 2.2k, 573
+Sabre,"Southlake, TX, United States",www.sabre.com,3.8, 3.0k, 1.9k, 421
+Sanofi,"Paris, France",www.sanofi.com,3.9, 7.6k, 5.6k, 952
+Zycus,"Princeton, NJ, United States",www.zycus.com,3.4, 574, 678, 552
+Mondelēz International,"Deerfield, IL, United States",www.mondelezinternational.com,4.0, 6.2k, 4.1k, 635
+BA Continuum India,Hyderabad,www.bankofamerica.com,4.2, 966, 1.1k, 200
+Yes Bank,Mumbai,www.yesbank.in,3.8, 1.1k, 1.2k, 136
+Mercedes-Benz Research and Development India,Chakan,www.mercedes-benz.co.in,3.7, 897, 1.0k, 245
+Saint-Gobain,"Courbevoie, France",www.saint-gobain.com,3.9, 2.9k, 2.2k, 366
+Comcast,"Philadelphia, PA, United States",www.comcastcareers.com,3.9, 18k, 11k, 2.5k
+Happiest Minds Technologies,Bengaluru,www.happiestminds.com,4.2, 764, 973, 366
+athenahealth,"Watertown, MA, United States",www.athenahealth.com,4.4, 2.6k, 1.5k, 662
+Valeo,"Paris, France",www.valeo.de,3.6, 3.4k, 2.6k, 527
+CitiusTech,Mumbai,www.citiustech.com,3.8, 1.9k, 881, 257
+JustDial,Mumbai,www.justdial.com,3.3, 731, 1.1k, 296
+Godrej & Boyce Manufacturing,Mumbai,www.godrejandboyce.com,3.8, 871, 1.1k, 237
+Nuance,"Burlington, MA, United States",www.nuance.com,3.7, 2.8k, 2.4k, 441
+XL Dynamics,Mumbai,www.xldynamics.com,3.4, 654, 775, 508
+Electronic Arts,"Redwood City, CA, United States",www.ea.com,4.0, 5.4k, 2.7k, 688
+Ameriprise,"Minneapolis, MN, United States",www.ameriprise.com,3.9, 3.5k, 2.2k, 449
+Protiviti,"Menlo Park, CA, United States",www.protiviti.com,4.0, 3.3k, 2.2k, 823
+TIBCO Software,"Palo Alto, CA, United States",www.tibco.com,3.9, 2.4k, 1.4k, 295
+FCA Fiat Chrysler Automobiles,"Auburn Hills, MI, United States",www.fcagroup.com,3.6, 8.0k, 4.9k, 936
+Ogilvy,"New York, NY, United States",www.ogilvy.com,3.7, 4.2k, 3.0k, 566
+MAQ Software,"Redmond, WA, United States",www.maqsoftware.com,2.6, 814, 698, 288
+ICICI Prudential Life Insurance,Mumbai,www.iciciprulife.com,3.6, 857, 1.1k, 210
+The Coca-Cola Company,"Atlanta, GA, United States",www.coca-colacompany.com,4.0, 9.5k, 5.7k, 1.4k
+Jaro Education,Mumbai,www.jaroeducation.com,3.5, 429, 750, 555
+Lionbridge,"Waltham, MA, United States",www.lionbridge.com,3.6, 2.1k, 2.5k, 339
+Hitachi Consulting,"Dallas, TX, United States",www.hitachiconsulting.com,3.5, 3.6k, 1.2k, 335
+GEP,"Clark, NJ, United States",www.gep.com,3.9, 1.1k, 1.1k, 347
+H&M,"Stockholm, Jämtland, Sweden",www.hm.com,3.6, 9.5k, 7.7k, 2.1k
+Micro Focus,"Newbury, England, United Kingdom",www.microfocus.com,3.5, 2.1k, 1.5k, 219
+Standard Chartered Global Business Services,Chennai,www.sc.com,3.7, 943, 1.1k, 211
+DONE by NONE,"Gurgaon, Haryana",www.donebynone.com,4.1, 2.6k, 1.4k, 117
+IndiaMART,Noida,www.indiamart.com,3.3, 785, 1.2k, 172
+NTT Ltd.,"London, England, United Kingdom",hello.global.ntt,3.9, 2.6k, 2.4k, 282
+Kelly,"Troy, MI, United States",www.kellyservices.com,3.5, 6.3k, 5.8k, 1.0k
+3M,"Saint Paul, MN, United States",www.3m.com,4.0, 6.2k, 4.1k, 800
+Eurofins Scientific,"Luxembourg, Luxembourg",www.eurofins.com,3.4, 3.4k, 2.2k, 577
+MakeMyTrip,"Gurgaon, Haryana",www.makemytrip.com,4.2, 598, 906, 247
+Morningstar,"Chicago, IL, United States",www.morningstar.com,4.1, 2.4k, 1.4k, 551
+H&R Block,"Kansas City, MO, United States",www.hrblock.com,3.6, 8.0k, 4.5k, 812
+Veritas,"Santa Clara, CA, United States",www.veritas.com,3.8, 1.7k, 1.5k, 255
+Firstsource Solutions,Mumbai,www.firstsource.com,3.4, 1.1k, 1.4k, 184
+J. C. Penney,"Plano, TX, United States",www.jcpenney.com,3.4, 14k, 9.3k, 2.2k
+Netcracker Technology,"Waltham, MA, United States",www.netcracker.com,3.3, 1.2k, 1.2k, 258
+LG Electronics,"Seoul, South Korea",www.lg.com,3.3, 2.4k, 2.4k, 282
+Symphony Teleca,"Mountain View, CA, United States",services.harman.com,3.6, 871, 1.0k, 234
+Yardi Systems,"Santa Barbara, CA, United States",www.yardi.com,4.1, 1.7k, 1.4k, 426
+Siemens Healthineers,"Erlangen, Germany",www.siemens-healthineers.com,4.0, 2.5k, 1.8k, 325
+Tavant,"Santa Clara, CA, United States",www.tavant.com,4.0, 1.5k, 740, 247
+DuPont,"Wilmington, DE, United States",www.dupont.com,3.8, 4.0k, 2.6k, 500
+BDO,"Zaventem, Belgium",www.bdo.global,3.7, 4.7k, 3.3k, 927
+Ingram Micro,"Irvine, CA, United States",www.ingrammicro.com,3.8, 2.8k, 2.1k, 347
+Motorola Mobility,"Chicago, IL, United States",www.motorola.com,4.0, 4.8k, 2.5k, 334
+HCL Infosystems,Noida,www.hclinfosystems.com,3.5, 783, 1.2k, 176
+3i Infotech,Mumbai,www.3i-infotech.com,3.3, 2.7k, 723, 126
+Hilton,"McLean, VA, United States",jobs.hilton.com,4.2, 11k, 6.4k, 1.2k
+TTEC,"Englewood, CO, United States",www.ttecjobs.com,3.5, 4.8k, 4.9k, 1.0k
+Bloomberg L.P.,"New York, NY, United States",www.bloomberg.com,4.1, 12k, 5.0k, 6.2k
+National Instruments,"Austin, TX, United States",www.ni.com,3.7, 3.5k, 1.8k, 832
+Xoriant,"Sunnyvale, CA, United States",www.xoriant.com,3.9, 1.3k, 743, 277
+Sony,"Tokyo, Japan",www.sony.net,4.1, 2.5k, 2.2k, 407
+Pitney Bowes,"Stamford, CT, United States",www.pitneybowes.com,3.5, 2.8k, 2.0k, 282
+Serco Group,"Hook, South East England, England, United Kingdom",www.serco.com,3.3, 2.6k, 2.0k, 305
+Capco,"London, England, United Kingdom",www.capco.com,3.9, 2.4k, 1.8k, 616
+iNautix Technologies,Chennai,www.inautix.co.in,3.8, 706, 926, 242
+Indian Oil,New Delhi,www.iocl.com,4.2, 735, 960, 208
+Freshworks,"San Mateo, CA, United States",www.freshworks.com,4.4, 797, 689, 376
+Wolters Kluwer,"Alphen aan den Rijn, Netherlands",www.wolterskluwer.com,3.6, 3.6k, 2.6k, 389
+FedEx,"Memphis, TN, United States",www.fedex.com,3.8, 8.6k, 6.5k, 1.1k
+Globant,"Buenos Aires, Argentina",www.globant.com,4.2, 2.9k, 2.3k, 338
+Airbus,"Toulouse, France",www.airbus.com,4.1, 4.8k, 3.2k, 631
+ALSTOM,"Saint-Ouen, Centre, France",www.alstom.com,3.9, 2.7k, 1.7k, 255
+Ocwen Financial,"West Palm Beach, FL, United States",www.ocwen.com,3.5, 985, 1.1k, 210
+Covance,"Burlington, NC, United States",www.covance.com,4.3, 3.9k, 2.4k, 753
+Aegis,Mumbai,www.aegisglobal.com,3.3, 1.1k, 1.2k, 243
+Chegg,"Santa Clara, CA, United States",www.chegg.com,4.2, 1.2k, 1.2k, 296
+Altimetrik,"Southfield, MI, United States",www.altimetrik.com,4.0, 906, 703, 234
+Halliburton,"Houston, TX, United States",www.halliburton.com,3.6, 5.9k, 4.4k, 1.0k
+IndusInd Bank,Mumbai,www.indusind.com,3.3, 839, 972, 144
+XYZ (Turkey),"İzmir, Turkey",www.xyz.com.tr,3.8, 945, 1.3k, 206
+Temenos,"Geneva, Switzerland",www.temenos.com,3.5, 993, 1.1k, 205
+Sodexo,"Issy-les-Moulineaux, France",www.sodexo.com,3.6, 5.9k, 4.4k, 407
+SLK Group,Bengaluru,www.slkgroup.com,3.4, 1.5k, 825, 187
+Walt Disney Company,"Burbank, CA, United States",www.disney.com,4.1, 10k, 7.8k, 1.7k
+Hyundai Motor,"Seoul, South Korea",www.hyundai.com,3.9, 1.7k, 1.5k, 276
+IKEA,"Delft, Netherlands",www.ikea.com,4.0, 7.4k, 6.0k, 1.7k
+HTC Global Services,"Troy, MI, United States",www.htcinc.com,3.6, 3.3k, 630, 145
+Technosoft Corporation,"Southfield, MI, United States",www.technosoftcorp.com,4.3, 1.2k, 1.0k, 143
+Fluor,"Irving, TX, United States",www.fluor.com,3.9, 3.1k, 2.3k, 290
+Macquarie Group,"Sydney, Australia",www.macquarie.com,4.1, 3.3k, 2.1k, 814
+EdgeVerve Systems,Bengaluru,www.edgeverve.com,4.0, 733, 945, 117
+Intellect Design Arena,Chennai,www.intellectdesign.com,3.1, 768, 851, 216
+RB,"Slough, Berkshire, South East England, England, United Kingdom",www.rb.com,3.9, 3.3k, 2.7k, 550
+IHG Hotels and Resorts,"Denham, South East England, England, United Kingdom",www.ihg.com,4.0, 3.9k, 3.0k, 386
+Mentor Graphics,"Wilsonville, OR, United States",www.mentor.com,4.2, 5.5k, 1.1k, 225
+Bayer,"Leverkusen, Germany",career.bayer.com,4.2, 6.8k, 4.5k, 729
+Diebold Nixdorf,"North Canton, OH, United States",www.dieboldnixdorf.com,3.5, 2.7k, 1.8k, 230
+Sun Life,"Toronto, ON, Canada",www.sunlife.ca,4.0, 2.7k, 2.0k, 533
+Aditya Birla Group,Mumbai,www.adityabirla.com,4.0, 742, 970, 146
+Principal Financial Group,"Des Moines, IA, United States",www.principal.com,4.1, 2.1k, 1.2k, 408
+Extramarks,Noida,www.extramarks.com,3.4, 630, 1.0k, 172
+The Home Depot,"Atlanta, GA, United States",www.homedepot.com,3.9, 59k, 28k, 5.3k
+Moody's Analytics,"New York, NY, United States",www.moodysanalytics.com,3.8, 1.9k, 1.0k, 326
+Yodlee,"Chicago, IL, United States",www.yodlee.com,3.7, 869, 708, 264
+Asian Paints,Mumbai,www.asianpaints.com,4.0, 746, 879, 181
+Myntra,Bengaluru,www.myntra.com,4.0, 749, 733, 195
+Rakuten,"Tokyo, Japan",global.rakuten.com,4.3, 1.7k, 1.5k, 748
+Gallagher,"Rolling Meadows, IL, United States",www.ajg.com,3.6, 2.3k, 1.9k, 322
+Ciena,"Hanover, MD, United States",www.ciena.com,4.4, 1.5k, 1.1k, 277
+TE Connectivity,"Schaffhausen, Switzerland",www.te.com,3.7, 3.2k, 1.9k, 350
+Manpower,"Uxbridge, England, United Kingdom",www.manpower.com,4.2, 11k, 5.7k, 642
+Aspire Systems,Chennai,www.aspiresys.com,4.0, 1.2k, 614, 265
+TechnipFMC,"London, England, United Kingdom",www.technipfmc.com,3.9, 3.2k, 2.1k, 228
+CapitalVia,Indore,www.capitalvia.com,4.0, 309, 1.0k, 135
+Kony,"Austin, TX, United States",www.kony.com,4.1, 628, 926, 219
+Comviva,"Gurgaon, Haryana",www.comviva.com,3.4, 674, 836, 205
+NIIT,"Gurgaon, Haryana",www.niit.com,3.5, 2.1k, 973, 169
+Artech L.L.C.,"Morristown, NJ, United States",www.artech.com,3.7, 1.2k, 1.1k, 169
+Baker Hughes,"Houston, TX, United States",www.bakerhughes.com,3.7, 2.9k, 2.2k, 420
+Finastra,"London, England, United Kingdom",www.finastra.com,3.9, 1.2k, 1.3k, 175
+Franklin Templeton Investments,"San Mateo, CA, United States",www.franklintempleton.com,3.8, 1.5k, 1.3k, 251
+Bharat Heavy Electricals,New Delhi,www.bhel.com,4.3, 635, 937, 126
+Futures First,"Gurgaon, Haryana",www.futuresfirst.com,4.2, 538, 549, 411
+First American Financial Corporation,"Santa Ana, CA, United States",www.firstam.com,3.7, 1.4k, 1.3k, 269
+Sprinklr,"New York, NY, United States",www.sprinklr.com,4.2, 1.2k, 996, 291
+NXP Semiconductors,"Eindhoven, Netherlands",www.nxp.com,3.9, 2.1k, 1.3k, 249
+Dr. Reddy's,Hyderabad,www.drreddys.com,4.0, 800, 938, 134
+Headstrong,"Fairfax, VA, United States",www.headstrong.com,3.3, 2.2k, 627, 157
+PK,"Portland, OR, United States",www.pkglobal.com,3.7, 2.2k, 675, 202
+Atkins,"London, England, United Kingdom",www.atkinsglobal.com,3.8, 2.2k, 1.5k, 393
+Agilent Technologies,"Santa Clara, CA, United States",www.agilent.com,4.3, 3.6k, 1.6k, 322
+Sasken,Bengaluru,www.sasken.com,3.5, 977, 798, 181
+Info Edge,Noida,www.infoedge.in,3.8, 601, 835, 183
+CompuCom,"Fort Mill, SC, United States",www.compucom.com,3.2, 3.4k, 2.3k, 295
+Fidelity International,"London, England, United Kingdom",www.fidelityinternational.com,4.0, 942, 1.0k, 273
+Photon Infotech,Chennai,www.photon.in,3.7, 1.2k, 858, 168
+Cushman & Wakefield,"Chicago, IL, United States",www.cushmanwakefield.com,3.8, 3.2k, 2.3k, 398
+Mastech Digital,"Moon Township, PA, United States",www.mastechdigital.com,4.3, 20k, 466, 61
+Colgate-Palmolive,"New York, NY, United States",www.colgatepalmolive.com,4.2, 2.5k, 2.1k, 403
+KFC,"Louisville, KY, United States",jobs.kfc.com,3.5, 7.4k, 5.7k, 855
+Renault Nissan Technology & Business Centre,Chennai,,3.7, 670, 772, 173
+Brillio,"Santa Clara, CA, United States",www.brillio.com,3.3, 1.3k, 761, 161
+Autodesk,"San Rafael, CA, United States",www.autodesk.com,4.2, 4.6k, 2.7k, 607
+Infinite Computer Solutions,Bengaluru,www.infinite.com,3.7, 1.6k, 814, 141
+TaskUs,"San Antonio, TX, United States",www.taskus.com,4.5, 2.0k, 4.3k, 661
+Diageo,"London, England, United Kingdom",www.diageo.com,4.0, 2.1k, 2.0k, 386
+Experis,"Milwaukee, WI, United States",www.experis.com,3.7, 3.0k, 1.7k, 254
+Sonata Software,Bengaluru,www.sonata-software.com,3.7, 639, 915, 149
+RealPage,"Richardson, TX, United States",www.realpage.com,3.6, 1.6k, 1.2k, 236
+DHL Supply Chain,"Bonn, Germany",www.dhl.com,3.8, 6.0k, 4.3k, 571
+Rockwell Collins,"Cedar Rapids, IA, United States",www.rockwellcollins.com,3.6, 3.5k, 1.8k, 376
+JSW Steel,Mumbai,www.jsw.in,3.6, 638, 869, 132
+Micron Technology,"Boise, ID, United States",www.micron.com,3.7, 5.7k, 3.0k, 1.1k
+Microland,Bengaluru,www.microland.com,3.6, 718, 710, 143
+thyssenkrupp,"Essen, Nordrhein-Westfalen, Germany",www.thyssenkrupp.com,3.6, 3.3k, 2.0k, 238
+Novo Nordisk,"Bagsværd, Denmark",www.novonordisk.com,4.1, 1.8k, 1.6k, 396
+Hero MotoCorp,New Delhi,www.heromotocorp.com,4.3, 552, 774, 137
+Rockwell Automation,"Milwaukee, WI, United States",www.rockwellautomation.com,3.9, 3.3k, 1.9k, 407
+Ciber,"Troy, MI, United States",www.ciber.com,3.4, 5.1k, 1.2k, 172
+IDEA Cellular,Mumbai,www.ideacellular.com,4.0, 628, 811, 139
+Nucleus Software Exports,New Delhi,www.nucleussoftware.com,3.6, 615, 806, 173
+Bombardier,"Montreal, QC, Canada",www.bombardier.com,3.4, 3.6k, 2.7k, 452
+Toyota Motor Corporation,"Toyota, Aichi, Japan",www.toyota-global.com,3.9, 2.0k, 1.6k, 233
+Marks & Spencer,"London, England, United Kingdom",www.marksandspencer.com,3.8, 5.4k, 4.6k, 1.2k
+Volvo Group,"Gothenburg, Sweden",www.volvogroup.com,4.2, 1.9k, 1.4k, 224
+Alight Solutions,"Lincolnshire, IL, United States",www.alight.com,3.3, 1.6k, 1.2k, 200
+FICO,"San Jose, CA, United States",www.fico.com,3.8, 1.5k, 946, 267
+Bureau Veritas,"Paris, France",www.bureauveritas.com,3.2, 2.1k, 1.7k, 211
+Lenovo,"Morrisville, NC, United States",www.lenovo.com,3.8, 3.0k, 2.3k, 347
+SAS Institute,"Cary, NC, United States",www.sas.com,4.0, 2.8k, 1.9k, 350
+Burger King,"Tulsa, OK, United States",www.burgerking.com,3.4, 10k, 8.2k, 1.3k
+Motorola Solutions,"Chicago, IL, United States",www.motorolasolutions.com,4.0, 4.2k, 2.6k, 471
+Subway,"Milford, CT, United States",www.subway.com,3.5, 12k, 11k, 1.8k
+Datamatics Global Services,Mumbai,www.datamatics.com,3.1, 789, 742, 152
+Henkel,"Düsseldorf, Germany",www.henkel.com,4.0, 3.6k, 3.3k, 543
+MSCI,"New York, NY, United States",www.msci.com,4.0, 1.5k, 1.0k, 257
+T-Systems,"Frankfurt am Main, Germany",www.t-systems.com,3.8, 2.7k, 1.7k, 236
+Pizza Hut,"Plano, TX, United States",jobs.pizzahut.com,3.5, 14k, 7.6k, 1.2k
+Practo Technologies,Bengaluru,www.practo.com,3.6, 615, 678, 149
+Western Union,"Denver, CO, United States",corporate.westernunion.com,3.7, 2.1k, 1.6k, 272
+Ipsos,"Paris, France",www.ipsos.com,3.4, 3.5k, 2.5k, 514
+Samsung R&D Institute India - Noida,Noida,research.samsung.com,2.9, 671, 683, 148
+Merit Group,"London, England, United Kingdom",www.meritgroup.co.uk,4.3, 115, 244, 22
+MetricStream,"San Jose, CA, United States",www.metricstream.com,3.8, 552, 589, 162
+Directi,Mumbai,www.directi.com,4.3, 483, 467, 307
+Cypress Semiconductor,"San Jose, CA, United States",www.cypress.com,3.7, 4.5k, 660, 194
+Tata,"Zug, Switzerland",www.tata.com,3.9, 736, 869, 116
+Rolls-Royce,"London, England, United Kingdom",www.rolls-royce.com,3.3, 3.8k, 2.5k, 733
+Hexagon,"Stockholm, Stockholm, Sweden",www.hexagonppm.com,3.8, 1.4k, 923, 170
+Subex,Bengaluru,www.subex.com,3.5, 628, 645, 179
+Team Computers,New Delhi,www.teamcomputers.com,4.3, 267, 699, 78
+BASF,"Florham Park, NJ, United States",www.basf.com,4.1, 5.2k, 3.6k, 877
+BD,"Franklin Lakes, NJ, United States",www.bd.com,3.8, 5.1k, 2.9k, 564
+Ashok Leyland,Chennai,www.ashokleyland.com,4.2, 607, 774, 120
+Volkswagen,"Wolfsburg, Niedersachsen, Germany",www.volkswagenag.com,4.0, 3.8k, 2.4k, 336
+Accolite,"Addison, TX, United States",www.accolite.com,3.9, 506, 470, 290
+NICE,"Raanana, Israel",www.nice.com,3.7, 1.2k, 1.0k, 258
+NIKE,"Beaverton, OR, United States",jobs.nike.com,4.1, 10k, 7.6k, 1.7k
+Thales,"Nanterre, France",www.thalesgroup.com,3.8, 4.9k, 3.2k, 518
+CMC,New Delhi,www.cmcltd.com,4.1, 947, 721, 139
+HDFC Standard Life Insurance,Mumbai,www.hdfclife.com,3.8, 595, 733, 142
+adidas,"Herzogenaurach, Germany",www.adidas-group.com,3.9, 4.5k, 3.7k, 876
+Chase,"New York, NY, United States",www.chase.com,3.8, 9.4k, 7.8k, 1.2k
+Software AG,"Darmstadt, Germany",www.softwareag.com,4.1, 919, 806, 230
+Zynga,"San Francisco, CA, United States",www.zynga.com,4.1, 1.9k, 965, 388
+Marvell Semiconductor,"Santa Clara, CA, United States",www.marvell.com,3.9, 3.3k, 1.2k, 340
+Genesys,"Daly City, CA, United States",www.genesys.com,4.1, 1.8k, 1.6k, 323
+Times Internet,"Gurgaon, Haryana",www.timesinternet.in,3.8, 541, 643, 114
+Spectrum,"Stamford, CT, United States",jobs.spectrum.com,3.2, 9.9k, 7.5k, 1.3k
+Toshiba,"Tokyo, Japan",www.toshiba.com,3.4, 1.5k, 1.2k, 199
+Reliance Communications,Mumbai,www.rcom.co.in,3.3, 496, 837, 124
+Rivigo,"Gurgaon, Haryana",www.rivigo.com,3.1, 480, 708, 165
+Toppr.com,Mumbai,www.toppr.com,3.4, 466, 688, 166
+Kearney,"Chicago, IL, United States",www.kearney.com,4.2, 4.5k, 1.3k, 478
+Seagate Technology,"Fremont, CA, United States",www.seagate.com,3.7, 2.9k, 1.9k, 400
+CVS Health,"Woonsocket, RI, United States",jobs.cvshealth.com,3.1, 34k, 21k, 3.7k
+ICICI Securities,Mumbai,www.icicisecurities.com,3.2, 545, 675, 157
+GlobalData,"London, England, United Kingdom",www.globaldata.com,3.3, 916, 983, 184
+Citicorp Services India,Mumbai,,3.8, 583, 590, 154
+Bechtel,"Reston, VA, United States",www.bechtel.com,3.9, 3.3k, 1.7k, 296
+Oil and Natural Gas,New Delhi,www.ongcindia.com,4.3, 523, 732, 112
+Colt Technology Services,"London, England, United Kingdom",www.colt.net,4.5, 767, 985, 125
+Siemens PLM Software,"Plano, TX, United States",www.plm.automation.siemens.com,4.0, 1.5k, 965, 177
+Bristlecone,"San Jose, CA, United States",www.bcone.com,3.8, 679, 649, 159
+Trane Technologies,"Swords, Ireland",www.tranetechnologies.com,4.6, 2.0k, 1.6k, 364
+SYKES,"Tampa, FL, United States",www.sykes.com,3.3, 3.8k, 4.4k, 929
+Edelman,"New York, NY, United States",www.edelman.com,3.7, 4.4k, 2.6k, 612
+EF Education First,"Cambridge, MA, United States",www.ef.com,3.4, 2.9k, 3.1k, 901
+Infineon Technologies,"Neubiberg, Germany",www.infineon.com,4.2, 1.9k, 1.5k, 334
+IBS Software,"Singapore, Singapore",www.ibsplc.com,3.9, 858, 631, 130
+Roche,"Basel, Switzerland",www.roche.com,4.2, 5.7k, 4.1k, 879
+G4S,"London, England, United Kingdom",www.g4s.com,3.2, 2.6k, 2.6k, 383
+Chetu,"Plantation, FL, United States",www.chetu.com,3.4, 510, 798, 111
+Ecolab,"Saint Paul, MN, United States",www.ecolab.com,3.7, 4.7k, 2.9k, 573
+Simplilearn Solutions,"San Francisco, CA, United States",www.simplilearn.com,4.2, 364, 816, 139
+GE Aviation,"Cincinnati, OH, United States",www.geaviation.com,3.7, 4.2k, 2.4k, 601
+Faurecia,"Nanterre, France",www.faurecia.com,3.7, 2.8k, 1.9k, 230
+Microchip Technology,"Chandler, AZ, United States",www.microchip.com,3.9, 1.7k, 1.1k, 259
+Synchrony,"Stamford, CT, United States",www.synchronycareers.com,4.1, 1.7k, 1.1k, 304
+PolicyBazaar,"Gurgaon, Haryana",www.policybazaar.com,3.6, 496, 679, 127
+United Airlines,"Chicago, IL, United States",www.united.jobs,4.1, 5.2k, 4.1k, 3.1k
+Gap,"San Francisco, CA, United States",www.gap.com,3.8, 11k, 6.6k, 1.7k
+ltcc,,www.lntecc.com,3.4, 486, 582, 169
+Frost & Sullivan,"San Antonio, TX, United States",www.frost.com,3.3, 949, 993, 203
+Bharat Petroleum,Mumbai,www.bharatpetroleum.com,3.7, 539, 658, 135
+GE Power,"Schenectady, NY, United States",www.gepower.com,3.6, 2.5k, 1.5k, 258
+Experian,"Dublin, Co. Dublin, Ireland",www.experianplc.com,4.1, 4.8k, 3.5k, 508
+Advisory Board,"Washington, DC, United States",www.advisory.com,3.8, 2.5k, 1.2k, 1.1k
+Ricoh,"Tokyo, Japan",www.ricoh.com,3.4, 4.5k, 3.6k, 531
+Global Edge Software,Bengaluru,www.globaledgesoft.com,4.1, 712, 561, 109
+Merck,"Kenilworth, NJ, United States",www.merck.com,4.2, 7.6k, 4.4k, 908
+Scientific Games,"Las Vegas, NV, United States",www.scientificgames.com,3.5, 1.2k, 851, 160
+Walmart eCommerce,"San Bruno, CA, United States",www.walmartlabs.com,3.4, 3.9k, 1.4k, 433
+Bitwise,"Schaumburg, IL, United States",www.bitwiseglobal.com,3.3, 795, 394, 320
+Fareportal,"New York, NY, United States",www.fareportal.com,3.1, 589, 762, 114
+Urban Company,"Gurgaon, Haryana",www.urbancompany.com,4.0, 427, 575, 151
+Dow,"Midland, MI, United States",www.dow.com,4.0, 4.3k, 2.7k, 736
+Edelweiss Financial Services,Mumbai,www.edelweissfin.com,3.6, 565, 658, 119
+Macy's,"New York, NY, United States",www.macysjobs.com,3.4, 29k, 22k, 7.5k
+Swiss Re,"Zürich, Switzerland",www.swissre.com,4.0, 1.9k, 1.2k, 339
+Eli Lilly and Company,"Indianapolis, IN, United States",www.lilly.com,4.1, 4.2k, 2.7k, 698
+Keysight Technologies,"Santa Rosa, CA, United States",www.keysight.com,4.2, 3.0k, 939, 162
+Iris Software,"Edison, NJ, United States",www.irissoftware.com,4.1, 1.4k, 593, 117
+Einfochips,Ahmedabad,www.einfochips.com,3.5, 559, 623, 126
+Aptean,"Alpharetta, GA, United States",www.aptean.com,3.3, 672, 574, 222
+Experis India,"Gurgaon, Haryana",www.experis.in,3.1, 287, 843, 113
+Delhivery,"Gurgaon, Haryana",www.delhivery.com,3.8, 540, 581, 130
+KLA,"Milpitas, CA, United States",www.kla.com,3.9, 2.4k, 950, 346
+Intelenet,Mumbai,www.intelenetglobal.com,3.5, 501, 723, 116
+R1 RCM,"Chicago, IL, United States",www.r1rcm.com,3.1, 1.1k, 1.1k, 176
+Analog Devices,"Norwood, MA, United States",www.analog.com,3.9, 2.4k, 1.1k, 335
+Best Buy,"Richfield, MN, United States",www.bestbuy.com,3.8, 36k, 25k, 5.1k
+Enterprise,"Saint Louis, MO, United States",go.enterpriseholdings.com,3.4, 21k, 16k, 5.7k
+Cipla,Mumbai,www.cipla.com,3.8, 529, 728, 88
+ZF Group,"Friedrichshafen, Germany",www.zf.com,3.7, 2.8k, 1.9k, 265
+iPlace,"Mc Lean, VA, United States",www.iplaceusa.com,4.3, 266, 687, 102
+InMobi,Bengaluru,www.inmobi.com,4.0, 576, 569, 125
+Collins Aerospace,"Charlotte, NC, United States",www.collinsaerospace.com,3.8, 2.2k, 1.4k, 193
+IndiGo,"Gurgaon, Haryana",www.goindigo.in,3.9, 462, 562, 184
+CTS,"Eysines, France",www.cts-corporate.com,4.0, 533, 701, 147
+TO THE NEW,Noida,www.tothenew.com,4.2, 349, 509, 219
+Xilinx,"San Jose, CA, United States",www.xilinx.com,4.3, 2.0k, 951, 222
+Michelin,"Clermont-Ferrand, France",recrutement.michelin.fr,3.9, 2.1k, 1.6k, 191
+ACI Worldwide,"Naples, FL, United States",www.aciworldwide.com,3.7, 1.4k, 925, 165
+Pramati Technologies,Hyderabad,www.pramati.com,4.0, 490, 490, 173
+dunnhumby,"Hammersmith, England, United Kingdom",www.dunnhumby.com,4.2, 1.1k, 893, 197
+Bharat Electronics,Bengaluru,www.bel-india.com,3.9, 482, 667, 94
+WSP,"Montreal, QC, Canada",www.wsp.com,3.6, 3.7k, 2.2k, 421
+Deluxe Entertainment,"Los Angeles, CA, United States",www.bydeluxe.com,3.3, 1.3k, 894, 144
+Trident Group,Ludhiana,www.tridentindia.com,4.0, 425, 608, 89
+Odessa,"Philadelphia, PA, United States",www.odessainc.com,4.0, 382, 346, 337
+Legato Health Technologies,Bengaluru,www.legatohealth.com,4.0, 318, 373, 270
+Rackspace Technology,"San Antonio, TX, United States",www.rackspace.com,3.6, 4.0k, 2.1k, 550
+Brocade,"San Jose, CA, United States",www.brocade.com,4.0, 2.3k, 970, 175
+Honda,"Tokyo, Japan",www.honda.com,3.9, 3.1k, 1.9k, 252
+Torry Harris Integration Solutions,"Perth Amboy, NJ, United States",www.torryharris.com,4.0, 372, 598, 123
+Indian Institute of Technology Bombay,Mumbai,www.iitb.ac.in,4.6, 496, 743, 69
+Future Group,Mumbai,www.futuregroup.in,3.7, 477, 720, 77
+Axtria,"Berkeley Heights, NJ, United States",www.axtria.com,3.7, 834, 533, 192
+Shapoorji Pallonji,Colaba,www.shapoorjipallonji.com,3.8, 485, 598, 128
+Technicolor,"Issy-les-Moulineaux, France",www.technicolor.com,3.5, 1.4k, 1.0k, 161
+Cigniti Inc.,"Irving, TX, United States",www.cigniti.com,3.9, 1.2k, 502, 102
+OMICS International,"Henderson, NV, United States",www.omicsonline.org,2.9, 391, 661, 100
+Indiabulls,"Gurgaon, Haryana",www.indiabulls.com,3.1, 484, 695, 88
+YMCA,"Chicago, IL, United States",www.ymca.net,3.9, 12k, 12k, 1.7k
+Linde,"Guildford, England, United Kingdom",www.linde.com,3.5, 1.3k, 1.2k, 170
+R Systems,Noida,www.rsystems.com,3.7, 761, 594, 123
+Baxter,"Deerfield, IL, United States",www.baxter.com,3.8, 3.9k, 2.4k, 493
+Compunnel,"Plainsboro, NJ, United States",www.compunnel.com,3.7, 6.5k, 295, 45
+Bosch,"Farmington Hills, MI, United States",www.bosch.us,4.1, 1.9k, 1.1k, 301
+Telstra,"Melbourne, Australia",www.telstra.com,3.9, 2.7k, 2.4k, 431
+Walgreens,"Deerfield, IL, United States",www.walgreens.com,3.2, 29k, 20k, 3.3k
+UTC Aerospace Systems,"Charlotte, NC, United States",www.utcaerospacesystems.com,3.8, 2.7k, 1.4k, 343
+WeWork,"New York, NY, United States",www.wework.com,3.4, 2.6k, 1.7k, 768
+Vedanta Resources,"London, England, United Kingdom",www.vedantaresources.com,3.4, 438, 558, 168
+HighRadius,"Houston, TX, United States",www.highradius.com,3.8, 579, 565, 170
+SS&C,"Windsor, CT, United States",www.ssctech.com,3.1, 1.8k, 1.2k, 247
+iEnergizer,"Austin, TX, United States",www.ienergizer.com,3.4, 516, 668, 88
+Hitachi,"Tokyo, Japan",www.hitachi.com,3.6, 1.6k, 1.3k, 176
+Invesco,"Atlanta, GA, United States",www.invesco.com,3.7, 1.4k, 1.0k, 255
+Publicis Groupe,"Paris, France",www.publicisgroupe.com,3.7, 2.7k, 1.8k, 257
+3dplm Software Solution,Pune,www.3dplmsoftware.com,3.6, 327, 466, 246
+GE Digital,"San Ramon, CA, United States",www.ge.com,3.5, 981, 868, 243
+Visteon,"Belleville, MI, United States",www.visteon.com,2.9, 976, 841, 86
+Samsung India Electronics,New Delhi,www.samsung.net,3.6, 507, 648, 89
+State Street Syntel,Mumbai,www.syntelinc.com,3.4, 407, 610, 104
+MarketsandMarkets,Pune,www.marketsandmarkets.com,3.4, 453, 575, 93
+Epicor Software,"Austin, TX, United States",www.epicor.com,4.0, 1.2k, 1.3k, 220
+IGT Solutions,"Gurgaon, Haryana",www.igtsolutions.com,3.3, 661, 642, 89
+Bajaj Auto,Pune,www.bajajauto.com,3.6, 466, 502, 164
+Xavient,"Simi Valley, CA, United States",www.xavient.com,3.4, 1.3k, 419, 93
+Iron Mountain Inc,"Boston, MA, United States",www.ironmountain.com,3.4, 1.8k, 1.6k, 233
+Ramco Systems,Chennai,www.ramco.com,3.8, 545, 607, 109
+Impetus Technologies,"Los Gatos, CA, United States",www.impetus.com,3.9, 596, 572, 144
+Government of India,Bengaluru,india.gov.in,4.2, 558, 627, 42
+Marsh & McLennan Companies,"New York, NY, United States",www.mmc.com,3.9, 3.6k, 1.4k, 322
+Akzo Nobel Worldwide,"Amsterdam, Netherlands",www.akzonobel.com,3.8, 2.3k, 1.5k, 220
+ALTEN,"Boulogne-Billancourt, France",www.alten.com,3.2, 3.3k, 2.2k, 837
+Lam Research,"Fremont, CA, United States",www.lamresearch.com,4.6, 2.0k, 1.0k, 312
+Hays,"London, England, United Kingdom",www.haysplc.com,3.7, 8.0k, 3.7k, 983
+Mott MacDonald,"Croydon, England, United Kingdom",www.mottmac.com,3.9, 1.6k, 1.2k, 301
+D. E. Shaw India,Hyderabad,www.deshawindia.com,4.2, 410, 366, 250
+Hilti Group,"Schaan, Liechtenstein",www.hilti.group,3.9, 1.2k, 1.2k, 358
+Infostretch,"Santa Clara, CA, United States",www.infostretch.com,4.2, 694, 632, 112
+Jet Airways,Mumbai,www.jetairways.com,4.4, 448, 599, 110
+Commvault,"Tinton Falls, NJ, United States",www.commvault.com,3.7, 1.4k, 696, 209
+Magneti Marelli,"Corbetta, Italy",www.magnetimarelli.com,3.6, 1.4k, 932, 118
+Mylan Inc,"Hatfield, East of England, England, United Kingdom",www.mylan.com,4.0, 1.7k, 929, 175
+IPsoft,"New York, NY, United States",www.amelia.com,3.0, 795, 726, 193
+BMW Group,"Munich, Bayern, Germany",www.bmwgroup.com,4.2, 4.0k, 2.9k, 574
+Nordstrom,"Seattle, WA, United States",www.nordstrom.com,3.7, 20k, 16k, 4.7k
+Ebix,"Duluth, GA, United States",www.ebix.com,3.0, 722, 671, 104
+Indegene,Bengaluru,www.indegene.com,3.6, 367, 435, 177
+Perficient,"Saint Louis, MO, United States",www.perficient.com,3.9, 3.1k, 1.0k, 224
+National Thermal Power,New Delhi,www.ntpc.co.in,4.2, 415, 667, 78
+Merck KGaA,"Darmstadt, Germany",www.merckgroup.com,4.1, 1.3k, 1.1k, 182
+Expleo Group,"Montigny-le-Bretonneux, France",www.expleogroup.com,3.9, 728, 831, 67
+ninjacart,Bengaluru,www.ninjacart.in,3.3, 424, 544, 142
+The Smart Cube,"London, England, United Kingdom",www.thesmartcube.com,3.9, 391, 398, 181
+Zara,"Arteixo, Spain",www.zara.com,3.4, 4.8k, 4.9k, 1.0k
+Quess,Bengaluru,www.quesscorp.com,3.6, 508, 552, 55
+ManpowerGroup,"Milwaukee, WI, United States",www.manpowergroup.com,3.7, 1.8k, 1.4k, 195
+AXA XL,"Paris, France",www.axaxl.com,3.7, 910, 775, 159
+Freescale Semiconductor,"Austin, TX, United States",www.freescale.com,3.8, 1.7k, 1.0k, 179
+Arista Networks,"Santa Clara, CA, United States",www.arista.com,4.2, 1.1k, 576, 486
+ValueMomentum,"Piscataway, NJ, United States",www.valuemomentum.com,3.6, 1.6k, 338, 115
+Appirio,"Indianapolis, IN, United States",www.appirio.com,4.1, 893, 558, 201
+Mazars,"Paris, France",www.mazarsrecrute.fr,3.6, 2.7k, 1.8k, 611
+IIFL,Mumbai,www.indiainfoline.com,3.1, 412, 651, 95
+Pole To Win,"Larkspur, CA, United States",www.ptw.com,3.5, 566, 547, 224
+GE Capital,"Norwalk, CT, United States",www.gecapital.com,3.9, 2.7k, 1.8k, 384
+Tangoe,"Parsippany, NJ, United States",www.tangoe.com,3.3, 753, 760, 123
+Moody's Corporation,"New York, NY, United States",www.moodys.com,3.8, 2.4k, 1.1k, 391
+TSYS|Total System Services,"Columbus, GA, United States",www.tsys.com,3.2, 1.8k, 1.1k, 199
+Nityo Infotech,"Pittsburgh, PA, United States",www.nityo.com,4.1, 563, 763, 84
+Citco,"George Town, Cayman Islands",www.citco.com,3.3, 1.9k, 1.4k, 459
+Mars,"Mc Lean, VA, United States",www.mars.com,4.2, 3.7k, 2.9k, 686
+Bentley Systems,"Exton, PA, United States",www.bentley.com,4.0, 988, 787, 181
+Dun & Bradstreet,"Short Hills, NJ, United States",www.dnb.com,3.5, 1.7k, 1.3k, 286
+Radisson Hotel Group,"Minnetonka, MN, United States",www.radissonhotelgroup.com,3.9, 1.4k, 1.4k, 185
+Magna Infotech,Bengaluru,www.magna.in,2.9, 409, 568, 107
+NEC Corporation India,New Delhi,in.nec.com,3.0, 388, 489, 136
+LatentView Analytics,"Princeton, NJ, United States",www.latentview.com,3.6, 680, 373, 174
+DISYS,"Mc Lean, VA, United States",www.disys.com,3.6, 3.5k, 833, 130
+Randstad US,"Atlanta, GA, United States",www.randstadusa.com,3.8, 8.6k, 3.6k, 682
+Ugam,Mumbai,www.ugamsolutions.com,3.6, 405, 448, 171
+Trianz,"Santa Clara, CA, United States",www.trianz.com,4.0, 794, 474, 87
+Pyramid Consulting,"Alpharetta, GA, United States",www.pyramidci.com,3.9, 1.5k, 855, 122
+Xento Systems,Pune,www.xento.com,4.0, 191, 354, 211
+Kraft Heinz Company,"Chicago, IL, United States",www.kraftheinzcompany.com,3.4, 5.4k, 4.3k, 1.0k
+Hindustan Petroleum,Mumbai,www.hindustanpetroleum.com,4.2, 425, 524, 114
+Indeed,"Austin, TX, United States",www.indeed.com,4.3, 3.2k, 1.7k, 1.2k
+upGrad,Mumbai,www.upgrad.com,3.2, 416, 584, 101
+Atlas Copco,"Stockholm, Jämtland, Sweden",www.atlascopco.com,4.2, 1.2k, 976, 133
+Indian Institute of Science,Bengaluru,www.iisc.ac.in,4.5, 420, 636, 67
+Empower Retirement,"Greenwood Village, CO, United States",www.empower-retirement.com,4.5, 1.3k, 862, 161
+OnMobile,Bengaluru,www.onmobile.com,4.0, 380, 473, 141
+US Navy,"San Diego, CA, United States",www.navy.com,3.8, 21k, 18k, 1.2k
+Defence Research & Development Organisation,New Delhi,www.drdo.gov.in,4.3, 312, 669, 97
+Fedex Express,"Memphis, TN, United States",www.fedex.com,3.9, 4.7k, 3.4k, 445
+Staples,"Framingham, MA, United States",www.staples.com,3.3, 17k, 9.8k, 1.9k
+ICON,"Dublin, Co. Dublin, Ireland",www.iconplc.com,3.6, 1.7k, 1.2k, 252
+Infoview Technologies Pvt Limited,Chennai,www.ivtlinfoview.com,2.8, 510, 425, 123
+Globeop Financial Services,"London, England, United Kingdom",www.sscglobeop.com,3.0, 657, 537, 130
+Sungard Availability Services,"Wayne, PA, United States",www.sungardas.com,3.2, 1.2k, 970, 138
+Teach For India,Mumbai,www.teachforindia.org,4.2, 452, 475, 117
+Airbnb,"San Francisco, CA, United States",www.airbnb.com,4.1, 2.5k, 1.5k, 971
+Lear Corporation,"Southfield, MI, United States",www.lear.com,3.8, 2.3k, 1.4k, 155
+Quantiphi,"Marlborough, MA, United States",www.quantiphi.com,3.6, 462, 357, 213
+Square Yards,"Gurgaon, Uttar Pradesh",www.squareyards.com,3.4, 274, 705, 92
+Accor,"Paris, France",www.group.accor.com,3.9, 2.5k, 1.9k, 172
+Booking.com,"Amsterdam, Netherlands",www.booking.com,3.8, 5.4k, 4.5k, 1.9k
+Goodwill,"Richmond, VA, United States",www.goodwillvirginia.org,3.3, 5.1k, 5.0k, 871
+DHL Express,"Bonn, Germany",www.dhl.com,3.9, 3.0k, 2.0k, 310
+PPD,"Wilmington, NC, United States",www.ppd.com,4.0, 3.9k, 2.0k, 488
+Endurance International Group,"Burlington, MA, United States",www.endurance.com,3.9, 956, 611, 195
+ICICI Lombard General Insurance Company Limited,Mumbai,www.icicilombard.com,3.7, 416, 549, 88
+Cactus Communications,Mumbai,www.cactusglobal.com,3.8, 342, 714, 205
+Syngenta,"Basel, Switzerland",www.syngenta.com.br,4.1, 2.1k, 1.6k, 204
+GEICO,"Chevy Chase, MD, United States",www.geico.jobs,3.5, 7.7k, 5.4k, 2.9k
+Max Life Insurance,"Gurgaon, Haryana",www.maxlifeinsurance.com,3.9, 439, 543, 91
+HDB Financial Services,Pune,www.hdbfs.com,3.5, 468, 567, 58
+Vedantu,Bengaluru,www.vedantu.com,3.4, 467, 580, 77
+SanDisk,"Milpitas, CA, United States",www.sandisk.com,3.5, 1.5k, 634, 275
+Vidal Healthcare,Bengaluru,www.vidalhealth.com,4.5, 242, 635, 44
+Indus Valley Partners,"New York, NY, United States",www.ivp.in,3.3, 500, 297, 200
+Quinnox,"Chicago, IL, United States",www.quinnox.com,3.6, 798, 395, 151
+Fortinet,"Sunnyvale, CA, United States",www.fortinet.com,4.7, 1.7k, 1.1k, 380
+Vestas Wind Systems,"Aarhus, Denmark",www.vestas.com,3.6, 1.1k, 948, 183
+TransUnion,"Chicago, IL, United States",www.transunion.com,3.9, 1.9k, 1.1k, 328
+GroupM,"New York, NY, United States",www.groupm.com,3.7, 1.3k, 899, 223
+XYZ,"Santa Monica, CA, United States",www.xyz.xyz,3.9, 404, 555, 128
+Sun Pharma,Mumbai,www.sunpharma.com,3.6, 780, 630, 76
+Zscaler,"San Jose, CA, United States",www.zscaler.com,4.7, 631, 952, 222
+Tata Teleservices,Mumbai,www.tatateleservices.com,3.8, 353, 583, 78
+Teamware Solutions,Chennai,www.teamwaresolutions.net,4.5, 275, 628, 78
+EFI,"Fremont, CA, United States",www.efi.com,3.4, 806, 647, 139
+Daimler,"Stuttgart, Germany",www.daimler.com,4.1, 3.5k, 2.4k, 430
+Bsnl,New Delhi,www.bsnl.co.in,3.7, 378, 664, 49
+DENSO,"Kariya, Aichi, Japan",www.denso.com,3.5, 1.9k, 1.3k, 200
+Refinitiv,"London, England, United Kingdom",www.refinitiv.com,3.7, 1.1k, 947, 128
+Future Focus Infotech,Chennai,www.focusinfotech.com,3.8, 306, 605, 70
+AOL,"New York, NY, United States",corp.aol.com,3.9, 2.9k, 1.5k, 289
+Altair Engineering,"Troy, MI, United States",www.altair.com,4.2, 1.4k, 503, 110
+NeoSOFT Technologies,Mumbai,www.neosofttech.com,3.1, 326, 449, 160
+TD,"Mount Laurel, NJ, United States",www.td.com,4.0, 15k, 12k, 2.8k
+AIESEC,"Montreal, QC, Canada",www.aiesec.de,4.5, 221, 1.7k, 273
+IDC Technologies,"Milpitas, CA, United States",www.idctechnologies.com,3.3, 627, 649, 81
+Biocon,Bengaluru,www.biocon.com,3.8, 403, 547, 108
+Atlassian,"Sydney, Australia",www.atlassian.com,4.6, 1.4k, 847, 604
+Jade Global,"San Jose, CA, United States",www.jadeglobal.com,4.3, 398, 437, 74
+Robert Half,"Menlo Park, CA, United States",www.roberthalf.com,3.7, 11k, 8.5k, 2.3k
+Bajaj Finance,Pune,www.bajajfinservlending.in,3.6, 425, 527, 60
+Mindfire Solutions,New Delhi,www.mindfiresolutions.com,4.1, 374, 419, 129
+Gemalto,"Amsterdam, Netherlands",www.gemalto.com,3.5, 1.3k, 1.0k, 183
+Incedo,"Iselin, NJ, United States",www.incedoinc.com,3.6, 455, 480, 110
+Test,"Versailles, France",www.test-sa.com,4.1, 1.2k, 513, 62
+Minacs,"Fremont, CA, United States",www.concentrix.com,3.0, 643, 808, 170
+eMids Technologies,"Nashville, TN, United States",www.emids.com,3.7, 314, 423, 113
+US Army,"Washington, DC, United States",www.army.mil,3.9, 51k, 28k, 1.9k
+IDBI Bank,Mumbai,www.idbibank.com,3.6, 387, 526, 79
+One97 Communications,Noida,www.one97.com,3.5, 393, 468, 94
+Worley,"North Sydney, Australia",www.worley.com,3.6, 1.9k, 1.8k, 203
+CARS24.com,"Gurgaon, Haryana",www.cars24.com,4.0, 265, 463, 63
+Prime Focus Technologies,Mumbai,www.primefocustechnologies.com,2.7, 337, 470, 106
+Boston Scientific,"Marlborough, MA, United States",www.bostonscientific.com,4.3, 4.0k, 2.6k, 518
+Nihilent,Pune,www.nihilent.com,3.4, 360, 507, 96
+British Airways,"Harmondsworth, England, United Kingdom",www.ba.com,3.2, 2.1k, 1.8k, 460
+BP,"London, England, United Kingdom",www.bp.com,3.3, 5.1k, 4.3k, 1.2k
+Banco Bradesco,"Osasco, Brazil",www.bancobradesco.com.br,4.0, 11k, 6.1k, 1.0k
+Vodafone Idea,Mumbai,www.vodafoneidea.com,3.9, 438, 582, 19
+SKF,"Gothenburg, Sweden",www.skf.com,3.9, 719, 697, 88
+The World Bank,"Washington, DC, United States",www.worldbank.org,4.2, 1.9k, 1.9k, 353
+Xebia,"Hilversum, Netherlands",www.xebia.com,4.1, 273, 415, 121
+Thermax,Pune,www.thermaxglobal.com,4.0, 358, 502, 86
+People Tech Group,"Redmond, WA, United States",www.peopletechgroup.com,3.4, 640, 419, 150
+GLOBALFOUNDRIES,"Santa Clara, CA, United States",www.globalfoundries.com,3.5, 3.5k, 1.9k, 450
+Trigent Software,"Boston, MA, United States",www.trigent.com,3.9, 232, 484, 150
+Danone,"Paris, France",www.danone.com,3.9, 3.8k, 2.5k, 534
+NGA HR,"Hemel Hempstead, England, United Kingdom",www.ngahr.com,3.6, 800, 824, 101
+Time Inc.,"Des Moines, IA, United States",www.meredith.com,3.5, 1.7k, 1.1k, 228
+Mindlance,"Union, NJ, United States",www.mindlance.com,4.0, 1.1k, 492, 81
+smartData Enterprises,"Mohali, Punjab",www.smartdatainc.com,3.7, 252, 635, 57
+IIT Madras,Chennai,www.iitm.ac.in,4.5, 404, 482, 58
+LSI,"San Jose, CA, United States",www.lsi.com,3.9, 1.6k, 648, 144
+XPO Logistics,"Greenwich, CT, United States",www.xpo.com,3.7, 4.1k, 3.8k, 410
+Groupe Renault,"Boulogne-Billancourt, France",group.renault.com,3.8, 3.6k, 2.4k, 290
+"Ryan, LLC","Dallas, TX, United States",www.ryan.com,4.5, 1.2k, 1.1k, 176
+Trimble,"Sunnyvale, CA, United States",www.trimble.com,4.0, 1.5k, 719, 170
+Media.net,Mumbai,www.media.net,4.0, 352, 318, 168
+Fresherworld.com,Bengaluru,www.freshersworld.com,4.0, 568, 348, 62
+Yatra Online Pvt Ltd,"Gurgaon, Haryana",www.yatra.com,3.6, 291, 379, 67
+DBOI Global Services,"Frankfurt am Main, Germany",www.db.com,4.1, 393, 404, 75
+TVS Motor Company,Chennai,www.tvsmotor.in,4.1, 398, 442, 80
+FireEye,"Milpitas, CA, United States",www.fireeye.com,3.6, 1.2k, 731, 190
+Ellucian,"Reston, VA, United States",www.ellucian.com,4.0, 1.1k, 832, 182
+Automation Anywhere,"San Jose, CA, United States",www.automationanywhere.com,3.9, 446, 529, 129
+PUMA,"Herzogenaurach, Germany",about.puma.com,4.2, 1.0k, 1.0k, 195
+Grofers,"Gurgaon, Haryana",www.grofers.com,4.1, 329, 384, 116
+Rolta,Mumbai,www.rolta.com,2.5, 430, 436, 110
+Appen,"Sydney, Australia",www.appen.com,4.1, 1.5k, 2.8k, 294
+Mercedes-Benz International,"Stuttgart, Germany",www.mercedes-benz.com,4.0, 2.4k, 1.8k, 250
+Softtek,"Monterrey, Nuevo León, Mexico",www.softtek.com,3.9, 1.9k, 1.3k, 138
+Crossover for Work,"Austin, TX, United States",www.crossover.com,3.7, 433, 952, 474
+Aakash Educational Services,New Delhi,www.aakash.ac.in,3.8, 334, 470, 60
+Attra,"Melbourne, Australia",www.attra.com,3.6, 469, 340, 144
+Coal India,Kolkata,www.coalindia.in,3.6, 364, 462, 85
+Arcadis,"Amsterdam, Netherlands",www.arcadis.com,3.9, 2.8k, 1.8k, 258
+Lupin,Mumbai,www.lupin.com,3.8, 455, 556, 65
+Sify,Chennai,www.sifycorp.com,3.7, 443, 477, 70
+Mastek,"Reading, England, United Kingdom",www.mastek.com,3.9, 365, 519, 92
+Saama Technologies,"Campbell, CA, United States",www.saama.com,3.8, 906, 378, 89
+PageGroup,"London, England, United Kingdom",www.page.com,3.8, 2.1k, 2.1k, 767
+SGS,"Geneva, Switzerland",www.sgs.com,3.3, 2.3k, 1.8k, 231
+LG Soft India,Bengaluru,www.lgsoftindia.com,3.8, 316, 418, 100
+IKS Health,Mumbai,www.ikshealth.com,2.9, 303, 401, 88
+Hotstar,Mumbai,www.hotstar.com,3.3, 138, 186, 259
+Aptiv,"Dublin, Co. Dublin, Ireland",www.aptiv.com,3.7, 1.4k, 735, 149
+Ivy,Hyderabad,www.ivy.global,4.1, 298, 367, 110
+Nissan,"Yokohama, Aomori, Japan",www.nissan-global.com,3.6, 2.8k, 1.7k, 278
+Conneqt Business Solutions,Hyderabad,www.conneqtcorp.com,3.4, 331, 465, 87
+Next Education India,Hyderabad,www.nexteducation.in,3.5, 323, 443, 57
+Sophos,"Abingdon, England, United Kingdom",www.sophos.com,3.6, 738, 664, 134
+Daffodil Software,"Gurgaon, Haryana",www.daffodilsw.com,3.6, 237, 320, 211
+Conga,"San Mateo, CA, United States",www.conga.com,3.0, 770, 760, 212
+STL - Sterlite Technologies Limited,Pune,www.stl.tech,3.9, 325, 430, 72
+Jobsprovider,Patna Rural,www.jobsprovider.in,, 1.0k, --, --
+Luxoft,"Zug, Switzerland",www.luxoft.com,4.2, 2.0k, 1.6k, 272
+Kellogg Company,"Battle Creek, MI, United States",www.kelloggcareers.com,3.8, 3.6k, 2.3k, 438
+TomTom,"Amsterdam, Netherlands",www.tomtom.com,4.0, 861, 700, 190
+Colliers International,"Toronto, ON, Canada",www.colliers.com,3.6, 1.8k, 1.3k, 231
+Emirates,"Dubai, United Arab Emirates",www.emirates.com,3.9, 1.5k, 2.4k, 475
+Infinera,"Sunnyvale, CA, United States",www.infinera.com,3.6, 901, 571, 115
+GGK Tech,"Duluth, GA, United States",www.ggktech.com,3.6, 315, 317, 171
+Life Insurance Corporation of India,Mumbai,www.licindia.in,4.3, 408, 462, 51
+Waste Management,"Houston, TX, United States",www.wm.com,3.5, 5.6k, 2.2k, 473
+Appco Group,"Hong Kong, Hong Kong",www.appcogroup.com,2.6, 212, 598, 221
+Herbalife,"Los Angeles, CA, United States",www.herbalife.com,4.1, 1.5k, 1.3k, 148
+Sanmina,"San Jose, CA, United States",www.sanmina.com,3.3, 1.6k, 1.1k, 135
+KONE,"Espoo, Finland",www.kone.com,4.2, 807, 848, 127
+GS Lab,Pune,www.gslab.com,4.0, 310, 388, 137
+Bally Technologies,"Las Vegas, NV, United States",www.scientificgames.com,3.3, 732, 408, 111
+Verifone,"San Jose, CA, United States",www.verifone.com,3.0, 957, 792, 150
+Maxim Integrated,"San Jose, CA, United States",www.maximintegrated.com,3.9, 1.8k, 1.0k, 285
+Majesco,"Morristown, NJ, United States",www.majesco.com,3.1, 641, 394, 76
+TeamLease Staffing Solutions,Bengaluru,www.teamlease.com,3.4, 401, 459, 54
+Digitas,"Boston, MA, United States",www.digitas.com,3.7, 2.9k, 1.3k, 394
+Equifax,"Atlanta, GA, United States",www.equifax.com,3.3, 2.6k, 1.5k, 310
+J Sainsbury,"London, England, United Kingdom",www.j-sainsbury.co.uk,3.7, 6.9k, 5.6k, 1.4k
+Travelex,"London, England, United Kingdom",www.travelex.com,3.4, 845, 807, 125
+The Times of India,New Delhi,www.timesofindia.com,3.7, 303, 531, 61
+Bose,"Framingham, MA, United States",www.bose.com,3.9, 2.0k, 1.4k, 302
+Aker Solutions,"Lysaker, Norway",www.akersolutions.com,3.7, 1.2k, 951, 104
+WLT Group,"London, England, United Kingdom",www.wlt.com,3.4, 1.4k, 1.1k, 141
+Grab,"Singapore, Singapore",www.grab.com,3.8, 1.1k, 1.2k, 388
+Infiniti Research,"London, England, United Kingdom",www.infinitiresearch.com,2.8, 288, 354, 74
+Quikr India,Bengaluru,www.quikr.com,3.5, 342, 400, 85
+Indecomm Global Services,"Edison, NJ, United States",www.indecomm.com,3.3, 361, 434, 98
+Hyundai Mobis,"Seoul, South Korea",www.mobis.co.kr,3.2, 637, 499, 156
+LanceSoft,"Herndon, VA, United States",www.lancesoft.com,3.7, 1.9k, 412, 59
+Bank of Baroda,Vadodara,www.bankofbaroda.com,3.7, 401, 442, 46
+Alcon,"Geneva, Switzerland",www.alcon.com,3.8, 1.8k, 1.4k, 294
+Lexmark International,"Lexington, KY, United States",www.lexmark.com,3.8, 1.4k, 1.2k, 163
+NextGen Healthcare,"Irvine, CA, United States",www.nextgen.com,3.4, 795, 668, 129
+BNP Paribas Securities Services,"Paris, France",securities.bnpparibas.com,3.8, 902, 732, 121
+ByteDance,"Beijing, Beijing, China",www.bytedance.com,4.3, 666, 667, 383
+Affiliated Computer Services,"Dallas, TX, United States",www.acs-inc.com,3.3, 2.2k, 1.1k, 168
+T-Mobile,"Bellevue, WA, United States",www.t-mobile.com,4.0, 17k, 11k, 2.1k
+Indian Railways,New Delhi,www.indianrailways.gov.in,4.1, 403, 457, 37
+ACL Digital,"Santa Clara, CA, United States",www.acldigital.com,3.6, 403, 378, 62
+CSG,"Denver, CO, United States",www.csgi.com,4.3, 907, 618, 113
+Gap Inc.,"San Francisco, CA, United States",jobs.gapinc.com,3.7, 2.2k, 1.4k, 218
+Coviam,Bengaluru,www.coviam.com,4.2, 162, 270, 145
+Lenskart Solutions,"Faridabad, Haryana",www.lenskart.com,3.6, 294, 422, 69
+Omega Healthcare,Bengaluru,www.omegahms.com,3.5, 330, 455, 79
+Intertek,"London, England, United Kingdom",www.intertek.com,2.9, 1.9k, 1.4k, 210
+Santander,"Madrid, Spain",www.santander.com,3.8, 16k, 9.5k, 1.3k
+Flowserve,"Irving, TX, United States",www.flowserve.com,3.7, 1.6k, 839, 150
+Tredence,"San Jose, CA, United States",www.tredence.com,3.8, 379, 281, 167
+Calsoft,Pune,www.calsoftinc.com,3.4, 266, 321, 104
+Aristocrat Technologies,"Sydney, Australia",www.aristocrat.com,3.8, 616, 515, 129
+Aptara,"Falls Church, VA, United States",www.aptaracorp.com,3.2, 293, 445, 87
+Indian Army,New Delhi,indianarmy.nic.in,4.7, 268, 357, 89
+Landis+Gyr,"Zug, Switzerland",www.landisgyr.com,3.5, 783, 596, 101
+ICF,"Fairfax, VA, United States",www.icf.com,3.6, 3.3k, 1.4k, 458
+GLG,"New York, NY, United States",www.glginsights.com,3.6, 1.4k, 1.0k, 617
+Viasat,"Carlsbad, CA, United States",www.viasat.com,4.0, 1.7k, 936, 459
+Elsevier,"Amsterdam, Netherlands",www.elsevier.com,4.5, 1.9k, 1.2k, 264
+TOTAL,"Courbevoie, France",www.total.com,3.9, 2.5k, 2.3k, 326
+Magna International,"Aurora, ON, Canada",www.magna.com,3.8, 2.9k, 1.7k, 213
+Absolutdata,"Alameda, CA, United States",www.absolutdata.com,2.5, 319, 358, 103
+Stefanini,"Jaguariúna, Brazil",www.stefanini.com,3.6, 5.7k, 3.2k, 284
+KocharTech,"Gurgaon, Haryana",www.kochartech.com,4.6, 224, 652, 23
+XYZ Tech,Mumbai,,3.9, 614, 429, 57
+SoftwareONE,"Stans, Switzerland",www.softwareone.com,4.3, 607, 592, 91
+IDEMIA,"Paris, France",www.idemia.com,3.1, 638, 649, 91
+Huron Consulting Group,"Chicago, IL, United States",www.huronconsultinggroup.com,4.1, 2.1k, 986, 439
+Citicapital Commercial Corp,"Irving, TX, United States",www.citibank.com,3.9, 2.0k, 1.1k, 168
+Bajaj Allianz General Insurance Co,Pune,www.bajajallianz.com,3.9, 307, 408, 60
+Hitachi Vantara,"Santa Clara, CA, United States",www.hitachivantara.com,3.1, 1.5k, 973, 84
+Weatherford,"Houston, TX, United States",www.weatherford.com,3.4, 2.3k, 1.8k, 271
+Schaeffler,"Herzogenaurach, Germany",www.schaeffler.com,3.8, 1.9k, 1.1k, 144
+VFS Global,"Dubai, United Arab Emirates",www.vfsglobal.com,3.3, 424, 556, 54
+Collegedunia,"Gurgaon, Haryana",www.collegedunia.com,3.9, 270, 453, 94
+Evelyn,New Delhi,www.evelynlearning.com,4.0, 199, 303, 191
+Tracxn,Bengaluru,www.tracxn.com,3.0, 283, 331, 157
+Avanade,"Seattle, WA, United States",www.avanade.com,4.0, 4.8k, 2.6k, 622
+Steel Authority of India,New Delhi,www.sail.co.in,4.0, 314, 426, 55
+RSM,"Chicago, IL, United States",www.rsm.global,3.8, 5.3k, 2.7k, 1.0k
+Tata Consulting Engineers,Mumbai,www.tce.co.in,3.6, 332, 417, 93
+Inpetro Technologies,"Houston, TX, United States",www.inpetrotechnologies.com,4.8, 602, 442, 13
+Landmark Group,"Dubai, United Arab Emirates",www.landmarkgroup.com,3.6, 516, 704, 80
+Maxgen Technologies,Pune,www.maxgentechnology.com,4.6, 239, 399, 117
+Karvy Stock Broking,Hyderabad,www.karvyonline.com,3.2, 234, 402, 93
+WebKul,Noida,www.webkul.com,4.4, 107, 198, 111
+Intrado,"Omaha, NE, United States",www.intrado.com,3.6, 2.9k, 2.3k, 447
+Lodha,Mumbai,www.lodhagroup.in,3.5, 309, 424, 53
+Arrow Electronics,"Centennial, CO, United States",www.fiveyearsout.com,3.2, 2.5k, 1.5k, 296
+Convergys India,"Gurgaon, Haryana",www.cvgindia.com,3.8, 296, 446, 74
+Starwood Hotels & Resorts,"Stamford, CT, United States",www.starwoodhotels.com,4.0, 2.9k, 2.1k, 427
+VVDN Technologies ,"Gurgaon, Haryana",www.vvdntech.com,3.2, 326, 353, 109
+Merkle,"Columbia, MD, United States",www.merkleinc.com,3.8, 2.0k, 969, 424
+Varian Medical Systems,"Palo Alto, CA, United States",www.varian.com,4.2, 1.4k, 740, 169
+QBurst,Thiruvananthapuram,www.qburst.com,4.5, 362, 354, 85
+Miracle Software Systems,"Novi, MI, United States",www.miraclesoft.com,3.5, 1.7k, 322, 60
+Compass Group,"Chertsey, England, United Kingdom",www.compass-group.com,3.6, 3.4k, 2.7k, 320
+British Council,"London, England, United Kingdom",www.britishcouncil.org,3.8, 831, 1.2k, 214
+Visionary RCM Infotech,Chennai,www.visionaryrcm.com,3.3, 193, 385, 61
+JLT Group,"London, England, United Kingdom",www.jlt.com,3.8, 607, 525, 107
+LexisNexis Legal & Professional,"New York, NY, United States",www.lexisnexis.com,3.4, 2.3k, 2.2k, 289
+Regus,"Luxembourg, Luxembourg",www.reguscareers.com,2.8, 2.0k, 2.0k, 377
+Federal Bank,Aluva,www.federalbank.co.in,3.9, 303, 361, 110
+Unacademy,Bengaluru,www.unacademy.com,3.9, 332, 444, 66
+eTeam,"South Plainfield, NJ, United States",www.eteaminc.com,4.1, 728, 547, 84
+Packt,"Birmingham, England, United Kingdom",www.packt.com,3.0, 240, 330, 114
+NSEiT,Mumbai,www.nseit.com,3.7, 233, 397, 108
+udaan.com,Bengaluru,www.udaan.com,3.7, 337, 357, 81
+Fragomen,"New York, NY, United States",www.fragomen.com,3.3, 1.5k, 1.0k, 273
+Other,"London, England, United Kingdom",www.other.co.uk,4.1, 981, 521, 23
+Tetra Pak,"Pully, Switzerland",www.tetrapak.com,4.1, 1.2k, 1.0k, 164
+Schindler,"Ebikon, Switzerland",www.schindler.com,3.6, 2.0k, 800, 92
+Innominds Software,"San Jose, CA, United States",www.innominds.com,3.6, 588, 337, 67
+Clover Infotech,Mumbai,www.cloverinfotech.com,3.5, 244, 424, 91
+KBR,"Houston, TX, United States",www.kbr.com,3.7, 2.4k, 1.8k, 253
+QA InfoTech,"Farmington Hills, MI, United States",www.qainfotech.com,3.6, 322, 339, 125
+Capillary Technologies,"Singapore, Singapore",www.capillarytech.com,3.7, 296, 367, 71
+SDL,"Maidenhead, England, United Kingdom",www.sdl.com,4.0, 844, 870, 128
+Payoda,Coimbatore,www.payoda.com,4.4, 209, 282, 108
+Cornerstone OnDemand,"Santa Monica, CA, United States",www.cornerstoneondemand.com,3.6, 1.2k, 1.1k, 285
+MagicBricks,Noida,www.magicbricks.com,4.3, 233, 431, 61
+LivSpace,Bengaluru,www.livspace.com,3.6, 287, 396, 84
+Tommy Hilfiger,"Amsterdam, Netherlands",global.tommy.com,3.8, 1.8k, 1.5k, 305
+"DHL Global Forwarding, Freight","Bonn, Germany",www.logistics.dhl,4.0, 1.2k, 1.2k, 147
+Avery Dennison,"Glendale, CA, United States",www.averydennison.com,3.8, 1.6k, 1.1k, 250
+Boehringer Ingelheim,"Ingelheim am Rhein, Germany",www.boehringer-ingelheim.com,4.1, 2.9k, 2.1k, 376
+Stanley Black & Decker,"New Britain, CT, United States",www.stanleyblackanddecker.com,3.5, 2.5k, 1.7k, 303
+Sokrati,Pune,www.sokrati.com,3.8, 237, 242, 177
+"U.S. District Court, Southern District of Ohio","Columbus, OH, United States",www.ohsd.uscourts.gov,3.9, 1.7k, 342, 5
+Raytheon Technologies,"Waltham, MA, United States",www.rtx.com,3.8, 12k, 5.0k, 1.4k
+iQor,"Saint Petersburg, FL, United States",www.iqor.com,3.1, 1.6k, 1.5k, 255
+Tata Power,Mumbai,www.tatapower.com,4.2, 311, 396, 74
+State Farm,"Bloomington, IL, United States",www.statefarm.com,3.6, 14k, 11k, 2.4k
+CMS IT services,Bengaluru,www.cmsitservices.com,2.8, 277, 388, 87
+Go Speedy Go,Bhubaneswar,www.go-speedy-go.com,3.9, 133, 393, 102
+Orion Innovation,"Edison, NJ, United States",www.orioninc.com,3.4, 1.7k, 291, 41
+Integreon,"New York, NY, United States",www.integreon.com,3.3, 482, 480, 87
+Arvato,"Gütersloh, Germany",www.arvato-supply-chain.com,3.1, 1.6k, 1.4k, 274
+Petrofac,"London, England, United Kingdom",www.petrofac.com,3.7, 505, 784, 97
+Encore Capital Group,"San Diego, CA, United States",www.encorecapital.com,3.5, 404, 468, 157
+Qatar Airways,"Doha, Qatar",www.qatarairways.com,4.0, 761, 1.3k, 360
+Icertis,"Bellevue, WA, United States",www.icertis.com,4.1, 228, 311, 159
+Carrier,"Palm Beach Gardens, FL, United States",corporate.carrier.com,3.4, 1.6k, 1.0k, 170
+CommScope,"Hickory, NC, United States",www.commscope.com,3.7, 1.3k, 672, 118
+Intelliswift,"Newark, CA, United States",www.intelliswift.com,3.3, 1.3k, 270, 57
+QualityKiosk,Mumbai,www.qualitykiosk.com,3.4, 240, 368, 121
+Shriram Transport Finance,Mumbai,www.stfc.in,3.6, 316, 368, 75
+HashedIn by Deloitte,Bengaluru,www.hashedin.com,4.1, 286, 237, 146
+Tudip Technologies,Pune,www.tudip.com,3.3, 119, 214, 220
+Amazon Flex,"Houston, TX, United States",flex.amazon.com,3.6, 1.6k, 1.9k, 94
+CNH Industrial,"London, England, United Kingdom",www.cnhindustrial.com,3.7, 2.6k, 1.6k, 217
+MediaTek,"Hsinchu, Taiwan",www.mediatek.com,4.0, 747, 746, 134
+Red Bull,"Fuschl am See, Austria",www.redbull.com,4.3, 2.3k, 2.1k, 624
+C-DAC,Pune,www.cdac.in,3.7, 276, 396, 78
